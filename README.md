@@ -9,6 +9,8 @@ The taxonomy has been created from the following sources:
 - [Scannet Concepts](http://www.scan-net.org/) (including the NYU40 set)
 - we use [Wordnet](https://wordnet.princeton.edu/) as a pivot to connect the vocabularies from different domains
 
+The taxonomy has been created from these sources in a semi-automatic way.
+
 For compatibility with FSO we continue using the BSD 3-clause license.
 
 ### Acknowledgement
