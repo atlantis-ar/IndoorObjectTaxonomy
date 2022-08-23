@@ -1,7 +1,7 @@
 # IndoorObjectTaxonomy
 Taxonomy of indoor objects (building elements, furniture, accessories)
 
-We provide the ontology in tabular form (TSV, XLSX) and as RDF/OWL.
+We provide the ontology in tabular form (TSV, XLSX) and as RDF/OWL XML. The HTML file provides a hierarchical view of the data.
 
 The taxonomy has been created from the following sources:
 - [Furniture Sector Ontology (FSO) 2.5.1](http://www.funstep.org/ontology/)
