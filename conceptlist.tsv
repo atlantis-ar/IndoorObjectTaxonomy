@@ -1,0 +1,1110 @@
+Label	ID	URI	Scannet	Roomle	NYU40	Shapenet	COCO	FSO	Wordnet	Structural	Level
+entity	2921	https://www.w3.org/2006/03/wn/wn20/instances/synset-entity-noun-01							entity.n.01	x	0
+physical_entity	2922	https://www.w3.org/2006/03/wn/wn20/instances/synset-physical_entity-noun-01							physical_entity.n.01	x	1
+object	2923	https://www.w3.org/2006/03/wn/wn20/instances/synset-object-noun-01							object.n.01	x	2
+whole	2924	https://www.w3.org/2006/03/wn/wn20/instances/synset-whole-noun-02							whole.n.02	x	3
+artifact	2925	https://www.w3.org/2006/03/wn/wn20/instances/synset-artifact-noun-01							artifact.n.01	x	4
+decoration	250	http://scan-net.org/concepts/decoration	decoration		40				decoration.n.01	-	5
+wall hanging	291	http://scan-net.org/concepts/wall_hanging	wall hanging		40				hanging.n.01	-	6
+hanging	1223	http://scan-net.org/concepts/hanging	hanging		40				hanging.n.01	-	6
+centerpiece	551	http://scan-net.org/concepts/centerpiece	centerpiece		40				centerpiece.n.02	-	6
+design	2926	https://www.w3.org/2006/03/wn/wn20/instances/synset-design-noun-04							design.n.04	x	6
+emblem	2927	https://www.w3.org/2006/03/wn/wn20/instances/synset-emblem-noun-01							emblem.n.01	x	7
+flag	1272	http://scan-net.org/concepts/flag	flag		40				flag.n.01	-	8
+banner	1198	http://scan-net.org/concepts/banner	banner		40				banner.n.01	-	9
+structure	1178	http://scan-net.org/concepts/structure	structure		38				structure.n.01	-	5
+sign	261	http://www.aidimme.es/FurnitureSectorOntology.owl#Sign	sign		40			sign	signboard.n.01	-	6
+column	120	http://scan-net.org/concepts/column	column		38				column.n.06	-	6
+divider	748	http://scan-net.org/concepts/divider	divider		40				partition.n.01	-	6
+wall	1	http://scan-net.org/concepts/wall	wall		1				wall.n.01	-	7
+shower wall	128	http://scan-net.org/concepts/shower_wall	shower wall		1					-	8
+closet wall	1165	http://scan-net.org/concepts/closet_wall	closet wall		1					-	8
+pantry wall	1204	http://scan-net.org/concepts/pantry_wall	pantry wall		1					-	8
+bathroom wall	1243	http://scan-net.org/concepts/bathroom_wall	bathroom wall		1					-	8
+curtain wall	2928	http://atlantis-ar/indoor-taxonomy#curtain_wall								-	8
+building	2929	http://atlantis-ar/indoor-taxonomy#building							building.n.01	-	6
+house	2930	https://www.w3.org/2006/03/wn/wn20/instances/synset-house-noun-01							house.n.01	x	7
+dollhouse	282	http://scan-net.org/concepts/dollhouse	dollhouse		39				dollhouse.n.01	-	8
+outbuilding	2931	https://www.w3.org/2006/03/wn/wn20/instances/synset-outbuilding-noun-01							outbuilding.n.01	x	7
+garage	2932	http://atlantis-ar/indoor-taxonomy#garage		garage					garage.n.01	-	8
+carport	2933	http://atlantis-ar/indoor-taxonomy#carport		carport					carport.n.01	-	9
+story	2934	http://atlantis-ar/indoor-taxonomy#story							story.n.03	-	6
+area	2935	https://www.w3.org/2006/03/wn/wn20/instances/synset-area-noun-05							area.n.05	-	6
+enclosure	2936	https://www.w3.org/2006/03/wn/wn20/instances/synset-enclosure-noun-01							enclosure.n.01	-	7
+playpen	2495	http://www.aidimme.es/FurnitureSectorOntology.owl#Playpen						playpen	playpen.n.01	-	8
+niche	2937	http://atlantis-ar/indoor-taxonomy#niche							niche.n.03	-	8
+recess	2938	https://www.w3.org/2006/03/wn/wn20/instances/synset-recess-noun-04							recess.n.04	x	8
+fireplace	156	http://scan-net.org/concepts/fireplace	fireplace		38				fireplace.n.01	-	9
+chamber	2939	https://www.w3.org/2006/03/wn/wn20/instances/synset-chamber-noun-01							chamber.n.01	x	8
+furnace	363	http://scan-net.org/concepts/furnace	furnace		39				furnace.n.01	-	9
+room	2940	https://www.w3.org/2006/03/wn/wn20/instances/synset-room-noun-01							room.n.01	x	7
+toilet	17	http://www.aidimme.es/FurnitureSectorOntology.owl#Toilet	toilet		33		toilet	toilet	toilet.n.01	-	8
+closet	57	http://scan-net.org/concepts/closet	closet		39				closet.n.04	-	8
+bathroom stall	125	http://scan-net.org/concepts/bathroom_stall	bathroom stall		38				booth.n.02	-	9
+kitchen worktop	2845	http://www.aidimme.es/FurnitureSectorOntology.owl#KitchenWorktop						kitchen worktop	kitchen.n.01	-	8
+kitchen block	2941	http://atlantis-ar/indoor-taxonomy#kitchen_block		kitchen block					kitchenette.n.01	-	9
+storage_space	2942	https://www.w3.org/2006/03/wn/wn20/instances/synset-storage_space-noun-01							storage_space.n.01	x	7
+drawer	25	http://www.aidimme.es/FurnitureSectorOntology.owl#Drawer	drawer		39			drawer	drawer.n.01	-	8
+cupboard	2228	http://www.aidimme.es/FurnitureSectorOntology.owl#Cupboard		cupboard				cupboard	cupboard.n.01	-	8
+obstruction	2943	https://www.w3.org/2006/03/wn/wn20/instances/synset-obstruction-noun-01							obstruction.n.01	x	6
+barrier	817	http://scan-net.org/concepts/barricade	barrier		40				barrier.n.01	-	7
+rail	95	http://scan-net.org/concepts/rail	rail		38				railing.n.01	-	8
+stair rail	1171	http://scan-net.org/concepts/stair_rail	stair rail		38				bannister.n.02	-	8
+handrail	152	http://scan-net.org/concepts/hand_rail	handrail		38				bannister.n.02	-	8
+railing	1219	http://scan-net.org/concepts/railing	railing		38				railing.n.01	-	8
+banister	448	http://scan-net.org/concepts/banister	banister		38				bannister.n.02	-	8
+movable_barrier	2944	https://www.w3.org/2006/03/wn/wn20/instances/synset-movable_barrier-noun-01							movable_barrier.n.01	x	8
+door	5	http://www.aidimme.es/FurnitureSectorOntology.owl#Door	door		8		door	door	door.n.01	-	9
+sliding wood door	1282	http://scan-net.org/concepts/sliding_wood_door	sliding wood door		40				sliding_door.n.01	-	10
+garage door	976	http://scan-net.org/concepts/garage_door	garage door		38					-	10
+door wall	947	http://scan-net.org/concepts/door_wall	door wall		1				sliding_door.n.01	-	10
+sliding door	569	http://www.aidimme.es/FurnitureSectorOntology.owl#SlidingDoor	sliding door		8			sliding door	sliding_door.n.01	-	10
+door double	2945	http://atlantis-ar/indoor-taxonomy#door_double		door double					double_door.n.01	-	10
+flush door	2094	http://www.aidimme.es/FurnitureSectorOntology.owl#FlushDoor						flush door		-	10
+bifold door	2131	http://www.aidimme.es/FurnitureSectorOntology.owl#BifoldDoor						bifold door		-	10
+false door	2154	http://www.aidimme.es/FurnitureSectorOntology.owl#FalseDoor						false door		-	10
+bypass door	2400	http://www.aidimme.es/FurnitureSectorOntology.owl#BypassDoor						bypass door		-	10
+revolving door	2420	http://www.aidimme.es/FurnitureSectorOntology.owl#RevolvingDoor						revolving door		-	10
+stable door	2440	http://www.aidimme.es/FurnitureSectorOntology.owl#StableDoor						stable door		-	10
+up and over door	2459	http://www.aidimme.es/FurnitureSectorOntology.owl#UpAndOverDoor						up and over door		-	10
+blind door	2464	http://www.aidimme.es/FurnitureSectorOntology.owl#BlindDoor						blind door		-	10
+butterfly door	2491	http://www.aidimme.es/FurnitureSectorOntology.owl#ButterflyDoor						butterfly door		-	10
+louver door	2504	http://www.aidimme.es/FurnitureSectorOntology.owl#LouverDoor						louver door		-	10
+pet door	2570	http://www.aidimme.es/FurnitureSectorOntology.owl#PetDoor						pet door		-	10
+french door	2688	http://www.aidimme.es/FurnitureSectorOntology.owl#FrenchDoor						french door		-	10
+barn door	2766	http://www.aidimme.es/FurnitureSectorOntology.owl#BarnDoor						barn door		-	10
+panel door	2793	http://www.aidimme.es/FurnitureSectorOntology.owl#PanelDoor						panel door		-	10
+garden door	2796	http://www.aidimme.es/FurnitureSectorOntology.owl#GardenDoor						garden door		-	10
+swing door	2801	http://www.aidimme.es/FurnitureSectorOntology.owl#SwingDoor						swing door		-	10
+trap door	2879	http://www.aidimme.es/FurnitureSectorOntology.owl#TrapDoor						trap door		-	10
+bathroom stall door	1167	http://scan-net.org/concepts/bathroom_stall_door	bathroom stall door		8				door.n.01	-	9
+closet door	276	http://scan-net.org/concepts/closet_door	closet door		8				door.n.01	-	9
+mirror door	1208	http://scan-net.org/concepts/mirror_door	mirror door		8				door.n.01	-	9
+glass door	649	http://scan-net.org/concepts/glass_door	glass door		8				door.n.01	-	9
+supporting_structure	2946	https://www.w3.org/2006/03/wn/wn20/instances/synset-supporting_structure-noun-01							supporting_structure.n.01	x	6
+framework	2947	https://www.w3.org/2006/03/wn/wn20/instances/synset-framework-noun-03							framework.n.03	x	7
+window	16	http://www.aidimme.es/FurnitureSectorOntology.owl#Window	window		9		window	window	window.n.01	-	8
+window double	2948	http://atlantis-ar/indoor-taxonomy#window_double		window double						-	9
+skylight	2949	http://atlantis-ar/indoor-taxonomy#skylight							skylight.n.01	-	9
+dormer	2950	http://atlantis-ar/indoor-taxonomy#dormer							dormer.n.01	-	9
+swing window	2174	http://www.aidimme.es/FurnitureSectorOntology.owl#SwingWindow						swing window		-	9
+blinds window	2411	http://www.aidimme.es/FurnitureSectorOntology.owl#BlindsWindow						blinds window		-	9
+sliding window	2437	http://www.aidimme.es/FurnitureSectorOntology.owl#SlidingWindow						sliding window		-	9
+oscillating window	2918	http://www.aidimme.es/FurnitureSectorOntology.owl#OscillatingWindow						oscillating window		-	9
+doorframe	161	http://scan-net.org/concepts/doorframe	doorframe		8				doorframe.n.01	-	8
+storage organizer	1183	http://scan-net.org/concepts/storage_organizer	storage organizer		40				rack.n.01	-	8
+dish rack	323	http://scan-net.org/concepts/dish_rack	dish rack		40				dish_rack.n.01	-	9
+coat rack	1182	http://www.aidimme.es/FurnitureSectorOntology.owl#CoatRack	coat rack		40			coat rack	coatrack.n.01	-	9
+shoe rack	415	http://www.aidimme.es/FurnitureSectorOntology.owl#ShoeRack	shoe rack		40			shoe rack		-	9
+changing station	1248	http://scan-net.org/concepts/baby_changing_station	changing station		40					-	9
+luggage stand	1256	http://scan-net.org/concepts/luggage_stand	luggage stand		39					-	9
+coatrack	319	http://scan-net.org/concepts/coatrack	coatrack		40				coatrack.n.01	-	9
+wall mounted coat rack	1311	http://scan-net.org/concepts/wall_mounted_coat_rack	wall mounted coat rack		40				coatrack.n.01	-	9
+hatrack	607	http://scan-net.org/concepts/hatrack	hatrack		40				coatrack.n.01	-	9
+tray rack	1328	http://scan-net.org/concepts/tray_rack	tray rack		40					-	9
+towel rack	401	http://www.aidimme.es/FurnitureSectorOntology.owl#TowelRack	towel rack		40			towel rack	towel_rack.n.01	-	9
+garage storage	2951	http://atlantis-ar/indoor-taxonomy#garage_storage		garage storage						-	9
+garden barbeque	2952	http://atlantis-ar/indoor-taxonomy#garden_barbeque		garden barbeque					barbecue.n.03	-	9
+drying rack	822	http://www.aidimme.es/FurnitureSectorOntology.owl#DryingRack	drying rack		39			drying rack	clotheshorse.n.01	-	8
+frame	146	http://www.aidimme.es/FurnitureSectorOntology.owl#Frame	frame		38			frame	frame.n.10	-	8
+mirror frame	2115	http://www.aidimme.es/FurnitureSectorOntology.owl#MirrorFrame						mirror frame		-	9
+window frame	2353	http://www.aidimme.es/FurnitureSectorOntology.owl#WindowFrame						window frame		-	9
+door frame	2748	http://www.aidimme.es/FurnitureSectorOntology.owl#DoorFrame						door frame		-	9
+closet doorframe	1345	http://scan-net.org/concepts/closet_doorframe	closet doorframe		8				doorframe.n.01	-	8
+fountain	2953	https://www.w3.org/2006/03/wn/wn20/instances/synset-fountain-noun-01							fountain.n.01	x	6
+water fountain	305	http://scan-net.org/concepts/water_fountain	water fountain		38				drinking_fountain.n.01	-	7
+housing	2954	https://www.w3.org/2006/03/wn/wn20/instances/synset-housing-noun-01							housing.n.01	x	6
+dwelling	2955	https://www.w3.org/2006/03/wn/wn20/instances/synset-dwelling-noun-01							dwelling.n.01	x	7
+tower	2957	https://www.w3.org/2006/03/wn/wn20/instances/synset-tower-noun-01							tower.n.01	x	6
+traffic cone	948	http://scan-net.org/concepts/traffic_cone	traffic cone		40				pylon.n.01	-	7
+projection	2958	https://www.w3.org/2006/03/wn/wn20/instances/synset-projection-noun-04							projection.n.04	x	6
+flange	2803	http://www.aidimme.es/FurnitureSectorOntology.owl#Flange						flange	flange.n.01	-	7
+cone	1320	http://scan-net.org/concepts/cone	cone		40				cone.n.01	-	5
+kids toys	2959	http://atlantis-ar/indoor-taxonomy#kids_toys		kids toys					plaything.n.01	-	5
+stuffed animal	304	http://scan-net.org/concepts/stuffed_animal	stuffed animal		40				teddy.n.01	-	6
+teddy bear	1203	http://scan-net.org/concepts/teddy_bear	teddy bear		40		teddy bear		teddy.n.01	-	6
+nerf gun	204	http://scan-net.org/concepts/nerf_gun	nerf gun		40				water_gun.n.01	-	6
+bear	1260	http://scan-net.org/concepts/bear	bear		40		bear		teddy.n.01	-	6
+doll	1276	http://scan-net.org/concepts/santa	doll		40				doll.n.01	-	6
+toy piano	1317	http://scan-net.org/concepts/toy_piano	toy piano		40					-	6
+toy dinosaur	1319	http://scan-net.org/concepts/toy_dinosaur	toy dinosaur		40					-	6
+frisbee	2021	http://atlantis-ar/indoor-taxonomy#frisbee					frisbee		frisbee.n.01	-	6
+seesaw	2236	http://www.aidimme.es/FurnitureSectorOntology.owl#Seesaw						seesaw	seesaw.n.01	-	6
+ball	2960	https://www.w3.org/2006/03/wn/wn20/instances/synset-ball-noun-06							ball.n.06	x	6
+beachball	712	http://scan-net.org/concepts/beachball	beachball		40				beach_ball.n.01	-	7
+padding	2163	http://www.aidimme.es/FurnitureSectorOntology.owl#Padding						padding	padding.n.01	-	5
+cushion	39	http://www.aidimme.es/FurnitureSectorOntology.owl#Cushion	cushion		18			cushion	cushion.n.03	-	6
+pillow	13	http://www.aidimme.es/FurnitureSectorOntology.owl#Pillow	pillow		18	pillow		pillow	pillow.n.01	-	7
+pad	2961	https://www.w3.org/2006/03/wn/wn20/instances/synset-pad-noun-04							pad.n.04	x	6
+viscoelastic mattress	2849	http://www.aidimme.es/FurnitureSectorOntology.owl#ViscoelasticMattress						viscoelastic mattress	mattress.n.01	-	7
+futon	354	http://scan-net.org/concepts/futon	futon		39				futon.n.01	-	8
+air mattress	1349	http://www.aidimme.es/FurnitureSectorOntology.owl#AirMattress	air mattress		4	bed		air mattress	air_mattress.n.01	-	8
+way	2962	https://www.w3.org/2006/03/wn/wn20/instances/synset-way-noun-06							way.n.06	-	5
+stairs	58	http://scan-net.org/concepts/stairs	stairs		38				stairway.n.01	-	6
+stairs	2963	https://www.w3.org/2006/03/wn/wn20/instances/synset-stairs-noun-01							stairs.n.01	x	7
+ladder	122	http://www.aidimme.es/FurnitureSectorOntology.owl#Ladder	ladder		39			ladder	ladder.n.01	-	8
+stepladder	851	http://scan-net.org/concepts/stepladder	stepladder		39				step_ladder.n.01	-	9
+telescopic ladder	2128	http://www.aidimme.es/FurnitureSectorOntology.owl#TelescopicLadder						telescopic ladder		-	9
+roof ladder	2211	http://www.aidimme.es/FurnitureSectorOntology.owl#RoofLadder						roof ladder		-	9
+fixed ladder	2332	http://www.aidimme.es/FurnitureSectorOntology.owl#FixedLadder						fixed ladder		-	9
+step ladder	2341	http://www.aidimme.es/FurnitureSectorOntology.owl#StepLadder						step ladder		-	9
+extension ladder	2410	http://www.aidimme.es/FurnitureSectorOntology.owl#ExtensionLadder						extension ladder		-	9
+cat ladder	2546	http://www.aidimme.es/FurnitureSectorOntology.owl#CatLadder						cat ladder		-	9
+turntable ladder	2709	http://www.aidimme.es/FurnitureSectorOntology.owl#TurntableLadder						turntable ladder		-	9
+hook ladder	2738	http://www.aidimme.es/FurnitureSectorOntology.owl#HookLadder						hook ladder		-	9
+folded ladder	1209	http://scan-net.org/concepts/folded_ladder	folded ladder		39				ladder.n.01	-	8
+staircase	2964	http://atlantis-ar/indoor-taxonomy#staircase							staircase.n.01	-	6
+passage	2965	https://www.w3.org/2006/03/wn/wn20/instances/synset-passage-noun-03							passage.n.03	x	6
+conduit	2966	https://www.w3.org/2006/03/wn/wn20/instances/synset-conduit-noun-01							conduit.n.01	x	7
+tube	1172	http://scan-net.org/concepts/toothpaste	tube		40				tube.n.01	-	8
+pipe	107	http://www.aidimme.es/FurnitureSectorOntology.owl#Pipe	pipe		40			pipe	pipe.n.02	-	9
+hose	1258	http://www.aidimme.es/FurnitureSectorOntology.owl#Hose	hose		40			hose	hose.n.03	-	9
+fire hose	814	http://scan-net.org/concepts/fire_hose	fire hose		40				fire_hose.n.01	-	10
+poster tube	1194	http://scan-net.org/concepts/rolled_poster	poster tube		40				tube.n.01	-	8
+instrumentality	2967	https://www.w3.org/2006/03/wn/wn20/instances/synset-instrumentality-noun-03							instrumentality.n.03	x	5
+container	98	http://www.aidimme.es/FurnitureSectorOntology.owl#Container	container		40			container	container.n.01	-	6
+box	26	http://scan-net.org/concepts/box	box		29				box.n.01	-	7
+mailbox	540	http://scan-net.org/concepts/mail_bin	mailbox		29	mailbox			mailbox.n.01	-	8
+crate	233	http://scan-net.org/concepts/crate	crate		39				crate.n.01	-	8
+chest	129	http://www.aidimme.es/FurnitureSectorOntology.owl#Chest	chest		39			chest	chest.n.02	-	8
+toolbox	525	http://scan-net.org/concepts/toolbox	toolbox		39				toolbox.n.01	-	9
+medicine chest	2851	http://www.aidimme.es/FurnitureSectorOntology.owl#MedicineChest						medicine chest		-	9
+carton	1210	http://scan-net.org/concepts/carton	carton		40				carton.n.02	-	8
+cat litter box	657	http://scan-net.org/concepts/cat_litter_box	cat litter box		29					-	8
+knife block	1325	http://scan-net.org/concepts/knife_block	knife block		40					-	8
+coffin	2648	http://www.aidimme.es/FurnitureSectorOntology.owl#Coffin						coffin	coffin.n.01	-	8
+paper towel dispenser	82	http://scan-net.org/concepts/paper_towel_dispenser	paper towel dispenser		40				dispenser.n.01	-	7
+soap dispenser	100	http://www.aidimme.es/FurnitureSectorOntology.owl#SoapDispenser	soap dispenser		40			soap dispenser	soap_dispenser.n.01	-	8
+hand sanitzer dispenser	1326	http://scan-net.org/concepts/hand_sanitzer_dispenser	hand sanitzer dispenser		40				soap_dispenser.n.01	-	8
+tissue box	230	http://www.aidimme.es/FurnitureSectorOntology.owl#TissueBox	tissue box		40			tissue box	box.n.01	-	7
+storage bin	132	http://scan-net.org/concepts/storage_bin	storage bin		40				bin.n.01	-	7
+trash can	56	http://scan-net.org/concepts/trash_can	trash can		39	trash_bin			ashcan.n.01	-	8
+recycling bin	97	http://scan-net.org/concepts/recycling_bin	recycling bin		39	trash_bin			ashcan.n.01	-	8
+trash bin	1169	http://scan-net.org/concepts/trash_bin	trash bin		39	trash_bin			ashcan.n.01	-	8
+compost bin	1202	http://scan-net.org/concepts/compost_bin	compost bin		39	trash_bin			ashcan.n.01	-	8
+diaper bin	829	http://scan-net.org/concepts/diaper_bin	diaper bin		40				trash_bin.n.01	-	8
+basket	73	http://scan-net.org/concepts/basket	basket		40	basket			basket.n.01	-	7
+laundry hamper	1166	http://scan-net.org/concepts/laundry_hamper	laundry hamper		40				hamper.n.02	-	8
+laundry basket	106	http://scan-net.org/concepts/laundry_basket	laundry basket		40	basket			clothes_hamper.n.01	-	9
+laundry bag	1277	http://scan-net.org/concepts/laundry_bag	laundry bag		40	basket			clothes_hamper.n.01	-	9
+hamper	135	http://scan-net.org/concepts/hamper	hamper		40	basket			hamper.n.02	-	8
+purse	399	http://scan-net.org/concepts/purse	purse		40				bag.n.04	-	7
+toilet paper dispenser	163	http://scan-net.org/concepts/toilet_paper_dispenser	toilet paper dispenser		40				dispenser.n.01	-	7
+bin	66	http://scan-net.org/concepts/bin	bin		40				bin.n.01	-	7
+toilet seat cover dispenser	208	http://scan-net.org/concepts/toilet_seat_cover_dispenser	toilet seat cover dispenser		40				dispenser.n.01	-	7
+toilet paper holder	115	http://scan-net.org/concepts/toilet_paper_holder	toilet paper holder		40				dispenser.n.01	-	7
+case	432	http://scan-net.org/concepts/case	case		40				case.n.05	-	7
+cd case	1174	http://scan-net.org/concepts/cd_case	cd case		40					-	8
+guitar case	331	http://scan-net.org/concepts/guitar_case	guitar case		40					-	8
+case of water bottles	1181	http://scan-net.org/concepts/case_of_water_bottles	case of water bottles		40					-	8
+luggage	1190	http://scan-net.org/concepts/luggage	luggage		40				baggage.n.01	-	8
+bag	47	http://scan-net.org/concepts/bag	bag		37	suitcase			bag.n.06	-	9
+suitcase	93	http://scan-net.org/concepts/suitcase	suitcase		40		suitcase			-	10
+duffel bag	1232	http://scan-net.org/concepts/duffel_bag	duffel bag		37	suitcase				-	10
+trunk	450	http://scan-net.org/concepts/trunk	trunk		40				trunk.n.02	-	9
+coffee bean bag	1288	http://scan-net.org/concepts/bag_of_coffee_beans	coffee bean bag		37	suitcase			bag.n.06	-	9
+instrument case	591	http://scan-net.org/concepts/instrument_case	instrument case		40					-	8
+briefcase	1285	http://scan-net.org/concepts/briefcase	briefcase		40				briefcase.n.01	-	8
+dispenser	220	http://scan-net.org/concepts/dispenser	dispenser		40				dispenser.n.01	-	7
+water dispenser	1211	http://scan-net.org/concepts/water_softener	water dispenser		40				dispenser.n.01	-	7
+display case	1237	http://scan-net.org/concepts/food_display	display case		40				case.n.20	-	7
+envelope	719	http://scan-net.org/concepts/envelope	envelope		40				envelope.n.01	-	7
+storage box	1245	http://scan-net.org/concepts/covered_box	storage box		29				box.n.01	-	7
+pizza box	1253	http://scan-net.org/concepts/pizza_box	pizza box		29				box.n.01	-	7
+boxes of paper	1271	http://scan-net.org/concepts/boxes_of_paper	boxes of paper		29				box.n.01	-	7
+can	212	http://scan-net.org/concepts/can	can		40	can			can.n.01	-	7
+coffee box	1241	http://scan-net.org/concepts/coffee_box	coffee box		40				coffee_can.n.01	-	8
+lunch box	1280	http://scan-net.org/concepts/tupperware	lunch box		40				breadbox.n.01	-	7
+jewelry box	1299	http://scan-net.org/concepts/jewelry_box	jewelry box		29				box.n.01	-	7
+folded boxes	1323	http://scan-net.org/concepts/folded_boxes	folded boxes		40				box.n.01	-	7
+soda can	1339	http://scan-net.org/concepts/soda_can	soda can		40	can			can.n.01	-	7
+glass	160	http://www.aidimme.es/FurnitureSectorOntology.owl#Glass	glass		38			glass	glass.n.02	-	7
+wine glass	2030	http://atlantis-ar/indoor-taxonomy#wine_glass					wine glass		wineglass.n.01	-	8
+dryer sheets	1348	http://scan-net.org/concepts/dryer_sheets	dryer sheets		40				box.n.01	-	7
+handbag	2019	http://atlantis-ar/indoor-taxonomy#handbag					handbag		handbag.n.01	-	7
+bag	2968	https://www.w3.org/2006/03/wn/wn20/instances/synset-bag-noun-01							bag.n.01	x	7
+backpack	48	http://scan-net.org/concepts/backpack	backpack		40		backpack		backpack.n.01	-	8
+paper bag	570	http://scan-net.org/concepts/paper_bag	paper bag		37				sack.n.01	-	8
+grocery bag	1252	http://scan-net.org/concepts/grocery_bag	grocery bag		37	suitcase			grocery_bag.n.01	-	9
+messenger bag	1072	http://scan-net.org/concepts/messenger_bag	messenger bag		37				mailbag.n.02	-	8
+beanbag chair	1227	http://scan-net.org/concepts/beanbag_chair	beanbag chair		39				beanbag.n.01	-	8
+ikea bag	1230	http://scan-net.org/concepts/ikea_bag	ikea bag		37					-	8
+sleeping bag	1231	http://scan-net.org/concepts/sleeping_bag	sleeping bag		40				sleeping_bag.n.01	-	8
+pot	1234	http://scan-net.org/concepts/pot	pot		40				sleeping_bag.n.01	-	8
+golf bag	1264	http://scan-net.org/concepts/golf_bag	golf bag		37	suitcase			golf_bag.n.01	-	8
+garbage bag	440	http://scan-net.org/concepts/garbage_bag	garbage bag		37	suitcase				-	8
+cosmetic bag	480	http://scan-net.org/concepts/cosmetic_bag	cosmetic bag		37				toilet_bag.n.01	-	8
+shopping bag	506	http://scan-net.org/concepts/shopping_bag	shopping bag		37				shopping_bag.n.01	-	8
+tennis racket bag	1354	http://scan-net.org/concepts/tennis_racket_bag	tennis racket bag		40					-	8
+food bag	1356	http://scan-net.org/concepts/food_bag	food bag		37					-	8
+plastic_bag	2969	https://www.w3.org/2006/03/wn/wn20/instances/synset-plastic_bag-noun-01							plastic_bag.n.01	x	8
+trash bag	1297	http://scan-net.org/concepts/trash_bag	trash bag		37				bin_liner.n.01	-	9
+vessel	2970	https://www.w3.org/2006/03/wn/wn20/instances/synset-vessel-noun-03							vessel.n.03	x	7
+bottle	65	http://scan-net.org/concepts/bottle	bottle		40	bottle	bottle		bottle.n.01	-	8
+water bottle	392	http://scan-net.org/concepts/water_bottle	water bottle		40	bottle			water_bottle.n.01	-	9
+flask	2971	https://www.w3.org/2006/03/wn/wn20/instances/synset-flask-noun-01							flask.n.01	x	9
+vacuum_flask	2972	https://www.w3.org/2006/03/wn/wn20/instances/synset-vacuum_flask-noun-01							vacuum_flask.n.01	x	10
+thermos	726	http://scan-net.org/concepts/thermos	thermos		40	bottle			thermos.n.01	-	11
+bathtub	42	http://www.aidimme.es/FurnitureSectorOntology.owl#Bathtub	bathtub		36	tub		bathtub	bathtub.n.01	-	8
+bucket	102	http://www.aidimme.es/FurnitureSectorOntology.owl#Bucket	bucket		40			bucket	bucket.n.01	-	8
+water pitcher	488	http://scan-net.org/concepts/water_pitcher	water pitcher		40				pitcher.n.02	-	8
+jar	919	http://scan-net.org/concepts/jar	jar		40	jar			jar.n.01	-	8
+vase	194	http://www.aidimme.es/FurnitureSectorOntology.owl#Vase	vase		40	jar	vase	vase	vase.n.01	-	9
+flowerpot	1217	http://www.aidimme.es/FurnitureSectorOntology.owl#Flowerpot	flowerpot		40	jar		flowerpot	vase.n.01	-	9
+beer bottle	1206	http://scan-net.org/concepts/beer_bottle	beer bottle		40	bottle			bottle.n.01	-	8
+cooking pot	226	http://scan-net.org/concepts/cooking_pot	cooking pot		40				pot.n.01	-	8
+coffee kettle	1176	http://scan-net.org/concepts/coffee_kettle	coffee kettle		40				kettle.n.01	-	9
+tea kettle	1309	http://scan-net.org/concepts/tea_kettle	tea kettle		40				teakettle.n.01	-	10
+kettle	621	http://scan-net.org/concepts/kettle	kettle		40				kettle.n.01	-	9
+teapot	997	http://scan-net.org/concepts/teapot	teapot		40				teapot.n.01	-	9
+pitcher	1222	http://scan-net.org/concepts/pitcher	pitcher		40				pitcher.n.02	-	8
+spray bottle	1228	http://scan-net.org/concepts/spray_bottle	spray bottle		40	bottle			bottle.n.01	-	8
+soap bottle	1229	http://scan-net.org/concepts/bath_product	soap bottle		40				bottle.n.01	-	8
+shampoo bottle	167	http://scan-net.org/concepts/shampoo_bottle	shampoo bottle		40	bottle			bottle.n.01	-	8
+boiler	563	http://scan-net.org/concepts/boiler	boiler		40				boiler.n.01	-	8
+mouthwash bottle	1262	http://scan-net.org/concepts/mouthwash_bottle	mouthwash bottle		40	bottle			bottle.n.01	-	8
+lotion bottle	1279	http://scan-net.org/concepts/lotion_bottle	lotion bottle		40	bottle			bottle.n.01	-	8
+dishwashing soap bottle	1304	http://scan-net.org/concepts/dishwashing_soap_bottle	dishwashing soap bottle		40	bottle			bottle.n.01	-	8
+conditioner bottle	1308	http://scan-net.org/concepts/conditioner_bottle	conditioner bottle		40	bottle			bottle.n.01	-	8
+contact lens solution bottle	1324	http://scan-net.org/concepts/contact_lens_solution_bottle	contact lens solution bottle		40	bottle			bottle.n.01	-	8
+battery disposal jar	1346	http://scan-net.org/concepts/battery_disposal_jar	battery disposal jar		40	jar			jar.n.01	-	8
+tank	397	http://scan-net.org/concepts/tank	tank		40				tank.n.02	-	8
+water heater	571	http://www.aidimme.es/FurnitureSectorOntology.owl#WaterHeater	water heater		40			water heater	water_heater.n.01	-	9
+bath tub	2973	http://atlantis-ar/indoor-taxonomy#bath_tub		bath tub					bathtub.n.01	-	8
+drinking_vessel	2974	https://www.w3.org/2006/03/wn/wn20/instances/synset-drinking_vessel-noun-01							drinking_vessel.n.01	x	8
+cup	130	http://www.aidimme.es/FurnitureSectorOntology.owl#Cup	cup		40	cup or mug	cup	cup	mug.n.04	-	9
+coffee mug	907	http://scan-net.org/concepts/coffee_mug	coffee mug		40	cup or mug			coffee_mug.n.01	-	10
+mug	1269	http://scan-net.org/concepts/mug	mug		40	cup or mug			mug.n.04	-	9
+starbucks cup	1357	http://scan-net.org/concepts/starbucks_cup	starbucks cup		40	cup or mug			mug.n.04	-	9
+basin	2975	https://www.w3.org/2006/03/wn/wn20/instances/synset-basin-noun-01							basin.n.01	x	8
+bidet	2833	http://www.aidimme.es/FurnitureSectorOntology.owl#Bidet						bidet	bidet.n.01	-	9
+wheeled_vehicle	2976	https://www.w3.org/2006/03/wn/wn20/instances/synset-wheeled_vehicle-noun-01							wheeled_vehicle.n.01	x	7
+cart	214	http://www.aidimme.es/FurnitureSectorOntology.owl#Cart	cart		40			cart	handcart.n.01	-	8
+bicycle	121	http://scan-net.org/concepts/bycicle	bicycle		40	bicycle	bicycle		bicycle.n.01	-	8
+hoverboard	1226	http://scan-net.org/concepts/hoverboard	hoverboard		40					-	8
+skateboard	2028	http://atlantis-ar/indoor-taxonomy#skateboard					skateboard		skateboard.n.01	-	8
+self-propelled_vehicle	2977	https://www.w3.org/2006/03/wn/wn20/instances/synset-self-propelled_vehicle-noun-01							self-propelled_vehicle.n.01	x	8
+motor_vehicle	2978	https://www.w3.org/2006/03/wn/wn20/instances/synset-motor_vehicle-noun-01							motor_vehicle.n.01	x	9
+motorcycle	2000	http://atlantis-ar/indoor-taxonomy#motorcycle					motorcycle		motorcycle.n.01	-	10
+receptacle	2979	https://www.w3.org/2006/03/wn/wn20/instances/synset-receptacle-noun-01							receptacle.n.01	x	7
+tray	185	http://scan-net.org/concepts/tray	tray		40				tray.n.01	-	8
+dustpan	356	http://scan-net.org/concepts/dustpan	dustpan		40				dustpan.n.02	-	8
+dish	2980	https://www.w3.org/2006/03/wn/wn20/instances/synset-dish-noun-01							dish.n.01	x	7
+bowl	562	http://www.aidimme.es/FurnitureSectorOntology.owl#Bowl	bowl		40	bowl	bowl	bowl	bowl.n.03	-	8
+shaker	2981	https://www.w3.org/2006/03/wn/wn20/instances/synset-shaker-noun-03							shaker.n.03	x	7
+salt	1207	http://scan-net.org/concepts/salt	salt		40				saltshaker.n.01	-	8
+storage container	221	http://scan-net.org/concepts/storage_container	storage container		40				container.n.01	-	6
+plastic container	280	http://scan-net.org/concepts/plastic_container	plastic container		40				container.n.01	-	6
+food container	1265	http://scan-net.org/concepts/food_container	food container		40				container.n.01	-	6
+toiletry	174	http://scan-net.org/concepts/toiletry	toiletry		40				toiletry.n.01	-	6
+toothbrush	1135	http://www.aidimme.es/FurnitureSectorOntology.owl#Toothbrush	toothbrush		40		toothbrush	toothbrush	toothbrush.n.01	-	7
+shaving cream	1255	http://scan-net.org/concepts/shaving_cream	shaving cream		40				shaving_cream.n.01	-	7
+lotion	225	http://scan-net.org/concepts/lotion	lotion		40				lotion.n.01	-	7
+plastic storage bin	1302	http://scan-net.org/concepts/plastic_storage_bin	plastic storage bin		40				container.n.01	-	6
+outdoor equipment	2516	http://www.aidimme.es/FurnitureSectorOntology.owl#OutdoorEquipment						outdoor equipment	equipment.n.01	-	6
+exercise ball	372	http://scan-net.org/concepts/exercise_ball	exercise ball		40				sports_equipment.n.01	-	7
+weight	2982	https://www.w3.org/2006/03/wn/wn20/instances/synset-weight-noun-02							weight.n.02	x	8
+dumbbell	1170	http://scan-net.org/concepts/dumbbell_plates	dumbbell		40				dumbbell.n.01	-	9
+golf_equipment	2983	https://www.w3.org/2006/03/wn/wn20/instances/synset-golf_equipment-noun-01							golf_equipment.n.01	x	8
+dog park equipment	2377	http://www.aidimme.es/FurnitureSectorOntology.owl#DogParkEquipment						dog park equipment		-	7
+playground equipment	2891	http://www.aidimme.es/FurnitureSectorOntology.owl#PlaygroundEquipment						playground equipment		-	7
+zip line	2064	http://www.aidimme.es/FurnitureSectorOntology.owl#ZipLine						zip line		-	8
+playground fence	2397	http://www.aidimme.es/FurnitureSectorOntology.owl#PlaygroundFence						playground fence		-	8
+playset	2477	http://www.aidimme.es/FurnitureSectorOntology.owl#Playset						playset		-	8
+spring rider	2550	http://www.aidimme.es/FurnitureSectorOntology.owl#SpringRider						spring rider		-	8
+playground slide	2567	http://www.aidimme.es/FurnitureSectorOntology.owl#PlaygroundSlide						playground slide		-	8
+creative play structure	2752	http://www.aidimme.es/FurnitureSectorOntology.owl#CreativePlayStructure						creative play structure		-	8
+carousel	2832	http://www.aidimme.es/FurnitureSectorOntology.owl#Carousel						carousel		-	8
+climbing structure	2858	http://www.aidimme.es/FurnitureSectorOntology.owl#ClimbingStructure						climbing structure		-	8
+swing	2919	http://www.aidimme.es/FurnitureSectorOntology.owl#Swing						swing		-	8
+electronic_equipment	2984	https://www.w3.org/2006/03/wn/wn20/instances/synset-electronic_equipment-noun-01							electronic_equipment.n.01	x	7
+telephone	101	http://scan-net.org/concepts/telephone	telephone		40	telephone			telephone.n.01	-	8
+radiotelephone	2985	https://www.w3.org/2006/03/wn/wn20/instances/synset-radiotelephone-noun-02							radiotelephone.n.02	x	9
+cell phone	2043	http://atlantis-ar/indoor-taxonomy#cell_phone					cell phone		cellular_telephone.n.01	-	10
+peripheral	2986	https://www.w3.org/2006/03/wn/wn20/instances/synset-peripheral-noun-01							peripheral.n.01	x	8
+data_input_device	2987	https://www.w3.org/2006/03/wn/wn20/instances/synset-data_input_device-noun-01							data_input_device.n.01	x	9
+keyboard	46	http://scan-net.org/concepts/keyboard	keyboard		40	computer keyboard	keyboard		computer_keyboard.n.01	-	10
+scanner	345	http://scan-net.org/concepts/scanner	scanner		40				scanner.n.02	-	10
+apparatus	2988	https://www.w3.org/2006/03/wn/wn20/instances/synset-apparatus-noun-01							apparatus.n.01	x	7
+copier	72	http://scan-net.org/concepts/copier	copier		40				duplicator.n.01	-	8
+separator	2112	http://www.aidimme.es/FurnitureSectorOntology.owl#Separator						separator	centrifuge.n.01	-	8
+lighting	2303	http://www.aidimme.es/FurnitureSectorOntology.owl#Lighting						lighting	lighting.n.02	-	8
+table lamp	2218	http://www.aidimme.es/FurnitureSectorOntology.owl#TableLamp						table lamp		-	9
+ceiling lighting	2317	http://www.aidimme.es/FurnitureSectorOntology.owl#CeilingLighting						ceiling lighting		-	9
+pendant light	2178	http://www.aidimme.es/FurnitureSectorOntology.owl#PendantLight						pendant light		-	10
+track lighting	2256	http://www.aidimme.es/FurnitureSectorOntology.owl#TrackLighting						track lighting		-	10
+kitchen lighting	2291	http://www.aidimme.es/FurnitureSectorOntology.owl#KitchenLighting						kitchen lighting		-	10
+chandelier	1122	http://www.aidimme.es/FurnitureSectorOntology.owl#Chandelier	chandelier		38			chandelier	chandelier.n.01	-	10
+led kit	2465	http://www.aidimme.es/FurnitureSectorOntology.owl#LedKit						led kit		-	9
+floor lamp	2674	http://www.aidimme.es/FurnitureSectorOntology.owl#FloorLamp						floor lamp		-	9
+bulb	2859	http://www.aidimme.es/FurnitureSectorOntology.owl#Bulb						bulb		-	9
+desk lamp	179	http://www.aidimme.es/FurnitureSectorOntology.owl#DeskLamp	desk lamp		35	lamp		desk lamp		-	9
+pendulum	2989	https://www.w3.org/2006/03/wn/wn20/instances/synset-pendulum-noun-01							pendulum.n.01	x	8
+metronome	1212	http://scan-net.org/concepts/metronome	metronome		40				metronome.n.01	-	9
+game_equipment	2990	https://www.w3.org/2006/03/wn/wn20/instances/synset-game_equipment-noun-01							game_equipment.n.01	x	7
+ball	168	http://scan-net.org/concepts/ball	ball		40				ball.n.01	-	8
+pool table	143	http://scan-net.org/concepts/pool_table	pool table		39	table			pool_table.n.01	-	8
+photographic_equipment	2991	https://www.w3.org/2006/03/wn/wn20/instances/synset-photographic_equipment-noun-01							photographic_equipment.n.01	x	7
+camera	1266	http://scan-net.org/concepts/camera	camera		40				camera.n.01	-	8
+outdoor fitness equipment	2666	http://www.aidimme.es/FurnitureSectorOntology.owl#OutdoorFitnessEquipment						outdoor fitness equipment		-	7
+furnishing	2992	https://www.w3.org/2006/03/wn/wn20/instances/synset-furnishing-noun-02							furnishing.n.02	x	6
+curtain	21	http://www.aidimme.es/FurnitureSectorOntology.owl#Curtain	curtain		16			curtain	curtain.n.01	-	7
+shower curtain	55	http://www.aidimme.es/FurnitureSectorOntology.owl#ShowerCurtain	shower curtain		28			shower curtain	shower_curtain.n.01	-	8
+furniture	213	http://www.aidimme.es/FurnitureSectorOntology.owl#Furniture	furniture		39			furniture	furniture.n.01	-	7
+table	4	http://www.aidimme.es/FurnitureSectorOntology.owl#Table	table		7	table		table	table.n.02	-	8
+desk	9	http://www.aidimme.es/FurnitureSectorOntology.owl#OfficeTable	desk		14	table	desk		desk.n.01	-	9
+coffee table	24	http://www.aidimme.es/FurnitureSectorOntology.owl#CoffeeTable	coffee table		7	table		coffee table	coffee_table.n.01	-	9
+end table	44	http://www.aidimme.es/FurnitureSectorOntology.owl#EndTable	end table		7	table		end table		-	9
+kitchen counter	159	http://scan-net.org/concepts/kitchen_counter	kitchen counter		12	table			counter.n.01	-	9
+counter	35	http://www.aidimme.es/FurnitureSectorOntology.owl#Counter	counter		12	table		counter	counter.n.01	-	9
+bathroom counter	1156	http://scan-net.org/concepts/bathroom_counter	bathroom counter		12	table			counter.n.01	-	9
+stand	104	http://scan-net.org/concepts/stand	stand		39	table			stand.n.04	-	9
+dining table	45	http://www.aidimme.es/FurnitureSectorOntology.owl#DiningTable	dining table		7	table	dining table	dining table		-	9
+folded table	1193	http://scan-net.org/concepts/folded_table	folded table		7	table				-	9
+round table	108	http://scan-net.org/concepts/round_table	round table		7	table				-	9
+ping pong table	234	http://www.aidimme.es/FurnitureSectorOntology.owl#PingPongTable	ping pong table		39	table		ping pong table		-	9
+side table	222	http://scan-net.org/concepts/side_table	side table		7	table				-	9
+air hockey table	1355	http://scan-net.org/concepts/air_hockey_table	air hockey table		7	table				-	9
+bedside table	2457	http://www.aidimme.es/FurnitureSectorOntology.owl#BedsideTable		bedside table				bedside table	stand.n.04	-	9
+worktable	2993	https://www.w3.org/2006/03/wn/wn20/instances/synset-worktable-noun-01							worktable.n.01	x	9
+workbench	389	http://www.aidimme.es/FurnitureSectorOntology.owl#Workbench	workbench		39	table		workbench	workbench.n.01	-	10
+domestic table	2207	http://www.aidimme.es/FurnitureSectorOntology.owl#DomesticTable						domestic table		-	9
+kitchen table	2087	http://www.aidimme.es/FurnitureSectorOntology.owl#KitchenTable						kitchen table		-	10
+sofa table	2158	http://www.aidimme.es/FurnitureSectorOntology.owl#SofaTable						sofa table		-	10
+island	2222	http://www.aidimme.es/FurnitureSectorOntology.owl#Island						island		-	10
+television stand	2235	http://www.aidimme.es/FurnitureSectorOntology.owl#TelevisionStand						television stand		-	10
+serving trolley	2272	http://www.aidimme.es/FurnitureSectorOntology.owl#ServingTrolley						serving trolley		-	10
+lounge table	2742	http://www.aidimme.es/FurnitureSectorOntology.owl#LoungeTable						lounge table		-	10
+home student desk	2812	http://www.aidimme.es/FurnitureSectorOntology.owl#HomeStudentDesk						home student desk		-	10
+religious table	2306	http://www.aidimme.es/FurnitureSectorOntology.owl#ReligiousTable						religious table		-	9
+altar	2864	http://www.aidimme.es/FurnitureSectorOntology.owl#Altar						altar		-	10
+communion table	2900	http://www.aidimme.es/FurnitureSectorOntology.owl#CommunionTable						communion table		-	10
+pulpit	2920	http://www.aidimme.es/FurnitureSectorOntology.owl#Pulpit						pulpit	dais.n.01	-	10
+outdoor table	2499	http://www.aidimme.es/FurnitureSectorOntology.owl#OutdoorTable						outdoor table		-	9
+picnic table	2245	http://www.aidimme.es/FurnitureSectorOntology.owl#PicnicTable						picnic table		-	10
+garden table	2905	http://www.aidimme.es/FurnitureSectorOntology.owl#GardenTable						garden table		-	10
+restaurant and bar table	2539	http://www.aidimme.es/FurnitureSectorOntology.owl#RestaurantAndBarTable						restaurant and bar table		-	9
+games table	2562	http://www.aidimme.es/FurnitureSectorOntology.owl#GamesTable						games table		-	9
+school desk	2831	http://www.aidimme.es/FurnitureSectorOntology.owl#SchoolDesk						school desk		-	9
+sport table	2893	http://www.aidimme.es/FurnitureSectorOntology.owl#SportTable						sport table		-	9
+work table	2916	http://www.aidimme.es/FurnitureSectorOntology.owl#WorkTable						work table		-	9
+laboratory bench	2215	http://www.aidimme.es/FurnitureSectorOntology.owl#LaboratoryBench						laboratory bench		-	10
+sewing table	2313	http://www.aidimme.es/FurnitureSectorOntology.owl#SewingTable						sewing table		-	10
+kitchen workbench	2401	http://www.aidimme.es/FurnitureSectorOntology.owl#KitchenWorkbench						kitchen workbench		-	10
+operating table	2878	http://www.aidimme.es/FurnitureSectorOntology.owl#OperatingTable						operating table		-	10
+ironing board	155	http://www.aidimme.es/FurnitureSectorOntology.owl#IroningBoard	ironing board		39			ironing board	ironing_board.n.01	-	10
+cabinet	7	http://scan-net.org/concepts/cabinet_door	cabinet		3	cabinet		cabinet	cabinet.n.01	-	8
+bathroom cabinet	1173	http://www.aidimme.es/FurnitureSectorOntology.owl#BathroomCabinet	bathroom cabinet		3	cabinet		bathroom cabinet		-	9
+trash cabinet	1322	http://scan-net.org/concepts/trash_cabinet	trash cabinet		3	cabinet				-	9
+media center	815	http://scan-net.org/concepts/media_center	media center		3	cabinet				-	9
+bath cabinet	2995	http://atlantis-ar/indoor-taxonomy#bath_cabinet		bath cabinet						-	9
+mirror cabinet	2996	http://atlantis-ar/indoor-taxonomy#mirror_cabinet		mirror cabinet						-	9
+laboratory cabinet	2049	http://www.aidimme.es/FurnitureSectorOntology.owl#LaboratoryCabinet						laboratory cabinet		-	9
+filing cabinet	2176	http://www.aidimme.es/FurnitureSectorOntology.owl#FilingCabinet						filing cabinet		-	9
+boiserie	2180	http://www.aidimme.es/FurnitureSectorOntology.owl#Boiserie						boiserie		-	9
+sideboard	2374	http://www.aidimme.es/FurnitureSectorOntology.owl#Sideboard						sideboard		-	9
+kitchen cabinet	29	http://www.aidimme.es/FurnitureSectorOntology.owl#KitchenCabinet	kitchen cabinet		3			kitchen cabinet	cabinet.n.01	-	9
+base cabinet	2138	http://www.aidimme.es/FurnitureSectorOntology.owl#BaseCabinet						base cabinet		-	10
+wall cabinet	2139	http://www.aidimme.es/FurnitureSectorOntology.owl#WallCabinet						wall cabinet		-	10
+wardrobe	99	http://www.aidimme.es/FurnitureSectorOntology.owl#Wardrobe	wardrobe		39			wardrobe	wardrobe.n.01	-	9
+chiffonier	2821	http://www.aidimme.es/FurnitureSectorOntology.owl#Chiffonier						chiffonier	chiffonier.n.01	-	9
+lamp	28	http://scan-net.org/concepts/lamp	lamp		35	lamp			lamp.n.02	-	8
+studio light	379	http://scan-net.org/concepts/studio_light	studio light		38				floor_lamp.n.01	-	9
+ceiling lamp	749	http://scan-net.org/concepts/ceiling_lamp	ceiling lamp		35	lamp				-	9
+night lamp	1145	http://scan-net.org/concepts/night_lamp	night lamp		35	lamp				-	9
+lamp ceiling	2998	http://atlantis-ar/indoor-taxonomy#lamp_ceiling		lamp ceiling						-	9
+lamp outside	2999	http://atlantis-ar/indoor-taxonomy#lamp_outside		lamp outside						-	9
+wall lamp	3001	http://atlantis-ar/indoor-taxonomy#wall_lamp		lamp wall						-	9
+nightstand	34	http://scan-net.org/concepts/nightstand	nightstand		32				chest_of_drawers.n.01	-	8
+dresser	36	http://www.aidimme.es/FurnitureSectorOntology.owl#Dresser	dresser		17			dresser	chest_of_drawers.n.01	-	8
+bathroom vanity	1164	http://scan-net.org/concepts/bathroom_vanity	bathroom vanity		3	cabinet			cabinet.n.01	-	8
+seat	116	http://www.aidimme.es/FurnitureSectorOntology.owl#Seat	seat		39			seat	seat.n.03	-	8
+chair	2	http://www.aidimme.es/FurnitureSectorOntology.owl#Chair	chair		5	chair	chair	chair	chair.n.01	-	9
+office chair	10	http://www.aidimme.es/FurnitureSectorOntology.owl#OfficeChair	office chair		5	chair		office chair	swivel_chair.n.01	-	10
+armchair	23	http://scan-net.org/concepts/armchair	armchair		5	chair			armchair.n.01	-	10
+sunlounger	3002	http://atlantis-ar/indoor-taxonomy#sunlounger		garden sunlounger					lounger.n.02	-	11
+rocking chair	885	http://www.aidimme.es/FurnitureSectorOntology.owl#RockingChair	rocking chair		5	chair		rocking chair	rocking_chair.n.01	-	10
+school chair	2065	http://www.aidimme.es/FurnitureSectorOntology.owl#SchoolChair						school chair		-	10
+domestic chair	2307	http://www.aidimme.es/FurnitureSectorOntology.owl#DomesticChair						domestic chair		-	10
+reclining chair	2334	http://www.aidimme.es/FurnitureSectorOntology.owl#RecliningChair						reclining chair		-	11
+desk chair	2487	http://www.aidimme.es/FurnitureSectorOntology.owl#DeskChair						desk chair		-	11
+dining room chair	2512	http://www.aidimme.es/FurnitureSectorOntology.owl#DiningRoomChair						dining room chair		-	11
+kitchen chair	2592	http://www.aidimme.es/FurnitureSectorOntology.owl#KitchenChair						kitchen chair		-	11
+wheel chair	2365	http://www.aidimme.es/FurnitureSectorOntology.owl#WheelChair						wheel chair		-	10
+throne	2631	http://www.aidimme.es/FurnitureSectorOntology.owl#Throne						throne		-	10
+ortophedic chair	2668	http://www.aidimme.es/FurnitureSectorOntology.owl#OrtophedicChair						ortophedic chair		-	10
+restaurant and bar chair	2825	http://www.aidimme.es/FurnitureSectorOntology.owl#RestaurantAndBarChair						restaurant and bar chair		-	10
+professional chair	2869	http://www.aidimme.es/FurnitureSectorOntology.owl#ProfessionalChair						professional chair		-	10
+barber chair	2292	http://www.aidimme.es/FurnitureSectorOntology.owl#BarberChair						barber chair		-	11
+dentist chair	2598	http://www.aidimme.es/FurnitureSectorOntology.owl#DentistChair						dentist chair		-	11
+director chair	2663	http://www.aidimme.es/FurnitureSectorOntology.owl#DirectorChair						director chair		-	11
+outdoor chair	2874	http://www.aidimme.es/FurnitureSectorOntology.owl#OutdoorChair						outdoor chair		-	10
+garden chair	2383	http://www.aidimme.es/FurnitureSectorOntology.owl#GardenChair						garden chair		-	11
+beach chair	2690	http://www.aidimme.es/FurnitureSectorOntology.owl#BeachChair						beach chair		-	11
+deck chair	2783	http://www.aidimme.es/FurnitureSectorOntology.owl#DeckChair						deck chair		-	11
+couch	6	http://scan-net.org/concepts/couch	couch		6	sofa	couch		sofa.n.01	-	9
+sofa bed	3003	http://atlantis-ar/indoor-taxonomy#sofa_bed		bed sofabed					sofa_bed.n.01	-	10
+loveseat	2414	http://www.aidimme.es/FurnitureSectorOntology.owl#Loveseat						loveseat	love_seat.n.01	-	10
+modular sofa	2829	http://www.aidimme.es/FurnitureSectorOntology.owl#ModularSofa						modular sofa		-	10
+stool	38	http://www.aidimme.es/FurnitureSectorOntology.owl#Stool	stool		40			stool	stool.n.01	-	9
+ottoman	67	http://scan-net.org/concepts/ottoman	ottoman		39				footstool.n.01	-	10
+footrest	307	http://scan-net.org/concepts/footrest	footrest		39				footstool.n.01	-	10
+step stool	216	http://scan-net.org/concepts/step_stool	step stool		40				step_stool.n.01	-	10
+footstool	85	http://scan-net.org/concepts/footstool	footstool		39				footstool.n.01	-	10
+stepstool	1116	http://scan-net.org/concepts/stepstool	stepstool		40				step_stool.n.01	-	10
+sofa chair	74	http://scan-net.org/concepts/sofa_chair	sofa chair		5	chair			chair.n.01	-	9
+bench	68	http://www.aidimme.es/FurnitureSectorOntology.owl#Bench	bench		39	bench	bench	bench	bench.n.01	-	9
+religious bench	2194	http://www.aidimme.es/FurnitureSectorOntology.owl#ReligiousBench						religious bench		-	10
+church pew	2423	http://www.aidimme.es/FurnitureSectorOntology.owl#ChurchPew						church pew		-	11
+kneeler	2544	http://www.aidimme.es/FurnitureSectorOntology.owl#Kneeler						kneeler		-	11
+communion bench	2908	http://www.aidimme.es/FurnitureSectorOntology.owl#CommunionBench						communion bench		-	11
+street bench	2448	http://www.aidimme.es/FurnitureSectorOntology.owl#StreetBench						street bench		-	10
+park bench	2581	http://www.aidimme.es/FurnitureSectorOntology.owl#ParkBench						park bench		-	10
+garden bench	2730	http://www.aidimme.es/FurnitureSectorOntology.owl#GardenBench						garden bench		-	10
+piano bench	410	http://www.aidimme.es/FurnitureSectorOntology.owl#PianoBench	piano bench		39	bench		piano bench	bench.n.01	-	10
+folded chair	1184	http://scan-net.org/concepts/folded_chair	folded chair		5	chair			chair.n.01	-	9
+massage chair	1291	http://scan-net.org/concepts/massage_chair	massage chair		5	chair			chair.n.01	-	9
+sofa	1313	http://www.aidimme.es/FurnitureSectorOntology.owl#Sofa	sofa		6	sofa		sofa	sofa.n.01	-	9
+canap	2216	http://www.aidimme.es/FurnitureSectorOntology.owl#Canapé						canap		-	10
+corner sofa	2691	http://www.aidimme.es/FurnitureSectorOntology.owl#CornerSofa						corner sofa		-	10
+puff	2667	http://www.aidimme.es/FurnitureSectorOntology.owl#Puff						puff		-	9
+wardrobe 	1177	http://scan-net.org/concepts/wardrobe_	wardrobe 		39				wardrobe.n.01	-	8
+bedframe	43	http://scan-net.org/concepts/bedframe	bedframe		39				bedstead.n.01	-	8
+bookcase	2181	http://www.aidimme.es/FurnitureSectorOntology.owl#Bookcase						bookcase	bookcase.n.01	-	8
+bedroom_furniture	3006	https://www.w3.org/2006/03/wn/wn20/instances/synset-bedroom_furniture-noun-01							bedroom_furniture.n.01	x	8
+bed	11	http://www.aidimme.es/FurnitureSectorOntology.owl#Bed	bed		4	bed	bed	bed	bed.n.01	-	9
+bunk bed	411	http://www.aidimme.es/FurnitureSectorOntology.owl#BunkBed	bunk bed		39	bed		bunk bed	bunk_bed.n.01	-	10
+kids bed	3007	http://atlantis-ar/indoor-taxonomy#kids_bed		bed kids						-	10
+folding bed	2073	http://www.aidimme.es/FurnitureSectorOntology.owl#FoldingBed						folding bed		-	10
+pull down bed	2103	http://www.aidimme.es/FurnitureSectorOntology.owl#PullDownBed						pull down bed		-	10
+air bed	2175	http://www.aidimme.es/FurnitureSectorOntology.owl#AirBed						air bed		-	10
+hospital bed	2319	http://www.aidimme.es/FurnitureSectorOntology.owl#HospitalBed						hospital bed		-	10
+futon bed	2559	http://www.aidimme.es/FurnitureSectorOntology.owl#FutonBed						futon bed		-	10
+compact bed	2564	http://www.aidimme.es/FurnitureSectorOntology.owl#CompactBed						compact bed		-	10
+water bed	2610	http://www.aidimme.es/FurnitureSectorOntology.owl#WaterBed						water bed		-	10
+bunk	2626	http://www.aidimme.es/FurnitureSectorOntology.owl#Bunk						bunk		-	10
+stretcher	2670	http://www.aidimme.es/FurnitureSectorOntology.owl#Stretcher						stretcher		-	10
+mattress	1191	http://www.aidimme.es/FurnitureSectorOntology.owl#Mattress	mattress		4	bed		mattress	bed.n.01	-	9
+water mattress	2254	http://www.aidimme.es/FurnitureSectorOntology.owl#WaterMattress						water mattress		-	10
+spring mattress	2258	http://www.aidimme.es/FurnitureSectorOntology.owl#SpringMattress						spring mattress		-	10
+straw mattress	2259	http://www.aidimme.es/FurnitureSectorOntology.owl#StrawMattress						straw mattress		-	10
+latex mattress	2273	http://www.aidimme.es/FurnitureSectorOntology.owl#LatexMattress						latex mattress		-	10
+foam mattress	2888	http://www.aidimme.es/FurnitureSectorOntology.owl#FoamMattress						foam mattress		-	10
+loft bed	494	http://scan-net.org/concepts/loft_bed	loft bed		4	bed			bed.n.01	-	9
+office_furniture	3009	https://www.w3.org/2006/03/wn/wn20/instances/synset-office_furniture-noun-01							office_furniture.n.01	x	8
+file cabinet	75	http://scan-net.org/concepts/file_cabinet	file cabinet		3	cabinet			file.n.03	-	9
+filing tray	592	http://scan-net.org/concepts/mail_tray	filing tray		40					-	10
+file organizer	813	http://scan-net.org/concepts/file_organizer	file organizer		40					-	10
+wall_unit	3010	https://www.w3.org/2006/03/wn/wn20/instances/synset-wall_unit-noun-01							wall_unit.n.01	x	8
+tv stand	51	http://scan-net.org/concepts/tv_stand	tv stand		39				entertainment_center.n.01	-	9
+baby_bed	3011	https://www.w3.org/2006/03/wn/wn20/instances/synset-baby_bed-noun-01							baby_bed.n.01	x	8
+crib	566	http://www.aidimme.es/FurnitureSectorOntology.owl#Crib	crib		39			crib	crib.n.01	-	9
+carrycot	2165	http://www.aidimme.es/FurnitureSectorOntology.owl#Carrycot						carrycot	carrycot.n.01	-	9
+furniture complement	2289	http://www.aidimme.es/FurnitureSectorOntology.owl#FurnitureComplement						furniture complement		-	8
+mixed use complement	2085	http://www.aidimme.es/FurnitureSectorOntology.owl#MixedUseComplement						mixed use complement		-	9
+mosquito net	2048	http://www.aidimme.es/FurnitureSectorOntology.owl#MosquitoNet						mosquito net		-	10
+bumper	2102	http://www.aidimme.es/FurnitureSectorOntology.owl#Bumper						bumper		-	10
+paper holder	2346	http://www.aidimme.es/FurnitureSectorOntology.owl#PaperHolder						paper holder		-	10
+adhesive tape	2350	http://www.aidimme.es/FurnitureSectorOntology.owl#AdhesiveTape						adhesive tape		-	10
+table top	2362	http://www.aidimme.es/FurnitureSectorOntology.owl#TableTop						table top		-	10
+notice board	2782	http://www.aidimme.es/FurnitureSectorOntology.owl#NoticeBoard						notice board		-	11
+writing board	2897	http://www.aidimme.es/FurnitureSectorOntology.owl#WritingBoard						writing board		-	11
+whiteboard	52	http://www.aidimme.es/FurnitureSectorOntology.owl#Whiteboard	whiteboard		30			whiteboard	display_panel.n.01	-	12
+blackboard	89	http://www.aidimme.es/FurnitureSectorOntology.owl#Blackboard	blackboard		38			blackboard	blackboard.n.01	-	12
+pendulum system	2543	http://www.aidimme.es/FurnitureSectorOntology.owl#PendulumSystem						pendulum system		-	10
+cap plug	2574	http://www.aidimme.es/FurnitureSectorOntology.owl#CapPlug						cap plug		-	10
+door stopper	2606	http://www.aidimme.es/FurnitureSectorOntology.owl#DoorStopper						door stopper		-	10
+screw cover cap	2758	http://www.aidimme.es/FurnitureSectorOntology.owl#ScrewCoverCap						screw cover cap		-	10
+screw cap	2798	http://www.aidimme.es/FurnitureSectorOntology.owl#ScrewCap						screw cap		-	10
+sink	14	http://www.aidimme.es/FurnitureSectorOntology.owl#Sink	sink		34		sink	sink	sink.n.01	-	10
+bath basin	3012	http://atlantis-ar/indoor-taxonomy#bath_basin		bath basin					washbasin.n.01	-	11
+kitchen sink	3013	http://atlantis-ar/indoor-taxonomy#kitchen_sink		kitchen sink					kitchen_sink.n.01	-	11
+mirror	71	http://www.aidimme.es/FurnitureSectorOntology.owl#Mirror	mirror		19		mirror	mirror	mirror.n.01	-	10
+soap dish	157	http://www.aidimme.es/FurnitureSectorOntology.owl#SoapDish	soap dish		40			soap dish	soap_dish.n.01	-	10
+carpet	53	http://www.aidimme.es/FurnitureSectorOntology.owl#Carpet	carpet		40			carpet	rug.n.01	-	10
+umbrella	816	http://www.aidimme.es/FurnitureSectorOntology.owl#Umbrella	umbrella		40		umbrella	umbrella	umbrella.n.01	-	10
+tap	142	http://www.aidimme.es/FurnitureSectorOntology.owl#Tap	tap		40	faucet		tap	water_faucet.n.01	-	10
+felt	2461	http://www.aidimme.es/FurnitureSectorOntology.owl#Felt						felt	felt.n.01	-	10
+glider	2847	http://www.aidimme.es/FurnitureSectorOntology.owl#Glider						glider	glider.n.01	-	10
+kitchen complement	2172	http://www.aidimme.es/FurnitureSectorOntology.owl#KitchenComplement						kitchen complement		-	9
+burner	2304	http://www.aidimme.es/FurnitureSectorOntology.owl#Burner						burner		-	10
+cutlery	2466	http://www.aidimme.es/FurnitureSectorOntology.owl#Cutlery						cutlery		-	10
+fume cupboard	2729	http://www.aidimme.es/FurnitureSectorOntology.owl#FumeCupboard						fume cupboard		-	10
+cooktop	2795	http://www.aidimme.es/FurnitureSectorOntology.owl#Cooktop						cooktop		-	10
+platter	2909	http://www.aidimme.es/FurnitureSectorOntology.owl#Platter						platter		-	10
+range hood	342	http://www.aidimme.es/FurnitureSectorOntology.owl#RangeHood	range hood		38			range hood	range_hood.n.01	-	10
+plate	88	http://www.aidimme.es/FurnitureSectorOntology.owl#Plate	plate		40		plate	plate	plate.n.04	-	10
+frying pan	746	http://www.aidimme.es/FurnitureSectorOntology.owl#FryingPan	frying pan		40			frying pan	frying_pan.n.01	-	10
+strainer	2261	http://www.aidimme.es/FurnitureSectorOntology.owl#Strainer						strainer	strainer.n.01	-	10
+sieve	2718	http://www.aidimme.es/FurnitureSectorOntology.owl#Sieve						sieve	sieve.n.01	-	11
+squeezer	2315	http://www.aidimme.es/FurnitureSectorOntology.owl#Squeezer						squeezer	squeezer.n.01	-	10
+waste container	2266	http://www.aidimme.es/FurnitureSectorOntology.owl#WasteContainer						waste container		-	9
+garbage bin	2208	http://www.aidimme.es/FurnitureSectorOntology.owl#GarbageBin						garbage bin		-	10
+curbside recycling bin	2237	http://www.aidimme.es/FurnitureSectorOntology.owl#CurbsideRecyclingBin						curbside recycling bin		-	10
+wastepaper basket	2540	http://www.aidimme.es/FurnitureSectorOntology.owl#WastepaperBasket						wastepaper basket		-	10
+kitchen bin	2794	http://www.aidimme.es/FurnitureSectorOntology.owl#KitchenBin						kitchen bin		-	10
+decoration element	2724	http://www.aidimme.es/FurnitureSectorOntology.owl#DecorationElement						decoration element		-	9
+vessel	2624	http://www.aidimme.es/FurnitureSectorOntology.owl#Vessel						vessel		-	10
+planter	2684	http://www.aidimme.es/FurnitureSectorOntology.owl#Planter						planter		-	10
+photo frame	2826	http://www.aidimme.es/FurnitureSectorOntology.owl#PhotoFrame						photo frame		-	10
+candle	286	http://www.aidimme.es/FurnitureSectorOntology.owl#Candle	candle		40			candle	candle.n.01	-	10
+scaffold	2744	http://www.aidimme.es/FurnitureSectorOntology.owl#Scaffold						scaffold		-	9
+cleaning complement	2791	http://www.aidimme.es/FurnitureSectorOntology.owl#CleaningComplement						cleaning complement		-	9
+broom	325	http://www.aidimme.es/FurnitureSectorOntology.owl#Broom	broom		40			broom	broom.n.01	-	10
+mop	332	http://www.aidimme.es/FurnitureSectorOntology.owl#Mop	mop		40			mop	swab.n.02	-	10
+bathroom complement	2889	http://www.aidimme.es/FurnitureSectorOntology.owl#BathroomComplement						bathroom complement		-	9
+shower cabin	2456	http://www.aidimme.es/FurnitureSectorOntology.owl#ShowerCabin						shower cabin		-	10
+toilet tank	2493	http://www.aidimme.es/FurnitureSectorOntology.owl#ToiletTank						toilet tank		-	10
+shower enclosure	2555	http://www.aidimme.es/FurnitureSectorOntology.owl#ShowerEnclosure						shower enclosure		-	10
+weighing scale	2747	http://www.aidimme.es/FurnitureSectorOntology.owl#WeighingScale						weighing scale		-	10
+bathmat	2767	http://www.aidimme.es/FurnitureSectorOntology.owl#Bathmat						bathmat		-	10
+shower tray	2770	http://www.aidimme.es/FurnitureSectorOntology.owl#ShowerTray						shower tray		-	10
+toothbrush holder	2840	http://www.aidimme.es/FurnitureSectorOntology.owl#ToothbrushHolder						toothbrush holder		-	10
+shower	78	http://www.aidimme.es/FurnitureSectorOntology.owl#Shower	shower		38			shower	shower.n.01	-	10
+shower floor	417	http://scan-net.org/concepts/shower_floor	shower floor		2					-	11
+shower door	188	http://scan-net.org/concepts/shower_door	shower door		8					-	11
+shower control valve	1201	http://scan-net.org/concepts/shower_control_valve	shower control valve		38					-	11
+toilet brush	228	http://www.aidimme.es/FurnitureSectorOntology.owl#ToiletBrush	toilet brush		40			toilet brush		-	10
+piece of furniture	2627	http://www.aidimme.es/FurnitureSectorOntology.owl#PieceOfFurniture						piece of furniture		-	8
+auxiliary furniture	2310	http://www.aidimme.es/FurnitureSectorOntology.owl#AuxiliaryFurniture						auxiliary furniture		-	9
+children piece of furniture	2384	http://www.aidimme.es/FurnitureSectorOntology.owl#ChildrenPieceOfFurniture						children piece of furniture		-	9
+travel crib	2136	http://www.aidimme.es/FurnitureSectorOntology.owl#TravelCrib						travel crib		-	10
+baby bath tub	2152	http://www.aidimme.es/FurnitureSectorOntology.owl#BabyBathTub						baby bath tub		-	10
+baby bouncer	2190	http://www.aidimme.es/FurnitureSectorOntology.owl#BabyBouncer						baby bouncer		-	10
+nursing rocking chair	2196	http://www.aidimme.es/FurnitureSectorOntology.owl#NursingRockingChair						nursing rocking chair		-	10
+moses basket	2260	http://www.aidimme.es/FurnitureSectorOntology.owl#MosesBasket						moses basket		-	10
+cradle	2486	http://www.aidimme.es/FurnitureSectorOntology.owl#Cradle						cradle		-	10
+changing table	2531	http://www.aidimme.es/FurnitureSectorOntology.owl#ChangingTable						changing table		-	10
+baby pram	2635	http://www.aidimme.es/FurnitureSectorOntology.owl#BabyPram						baby pram		-	10
+high chair	2830	http://www.aidimme.es/FurnitureSectorOntology.owl#HighChair						high chair		-	10
+storage piece of furniture	2699	http://www.aidimme.es/FurnitureSectorOntology.owl#StoragePieceOfFurniture						storage piece of furniture		-	9
+bread basket	2134	http://www.aidimme.es/FurnitureSectorOntology.owl#BreadBasket						bread basket		-	10
+chest of drawers	2619	http://www.aidimme.es/FurnitureSectorOntology.owl#ChestOfDrawers						chest of drawers		-	10
+chest of drawers with babybath	2746	http://www.aidimme.es/FurnitureSectorOntology.owl#ChestOfDrawersWithBabybath						chest of drawers with babybath		-	11
+shelf	8	http://www.aidimme.es/FurnitureSectorOntology.owl#Shelf	shelf		15	bookshelf		shelf	bookshelf.n.01	-	10
+rack	87	http://www.aidimme.es/FurnitureSectorOntology.owl#Rack	rack		39			rack	rack.n.05	-	10
+music stand	581	http://scan-net.org/concepts/music_stand	music stand		39				music_stand.n.01	-	11
+tripod	1117	http://scan-net.org/concepts/tripod	tripod		39				tripod.n.01	-	11
+easel	289	http://www.aidimme.es/FurnitureSectorOntology.owl#Easel	easel		39			easel	easel.n.01	-	12
+magazine rack	765	http://www.aidimme.es/FurnitureSectorOntology.owl#MagazineRack	magazine rack		39			magazine rack	magazine_rack.n.01	-	11
+dress rack	733	http://scan-net.org/concepts/dress_rack	dress rack		40				dress_rack.n.01	-	11
+recliner chair	1338	http://scan-net.org/concepts/recliner_chair	recliner chair		5	chair			dress_rack.n.01	-	11
+flower stand	484	http://scan-net.org/concepts/flower_stand	flower stand		39					-	11
+clothes butler	2104	http://www.aidimme.es/FurnitureSectorOntology.owl#ClothesButler						clothes butler		-	11
+bicycle rack	2311	http://www.aidimme.es/FurnitureSectorOntology.owl#BicycleRack						bicycle rack		-	11
+wine rack	2355	http://www.aidimme.es/FurnitureSectorOntology.owl#WineRack						wine rack		-	11
+roof rack	2432	http://www.aidimme.es/FurnitureSectorOntology.owl#RoofRack						roof rack		-	11
+hat rack	2449	http://www.aidimme.es/FurnitureSectorOntology.owl#HatRack						hat rack		-	11
+umbrella stand	2506	http://www.aidimme.es/FurnitureSectorOntology.owl#UmbrellaStand						umbrella stand		-	11
+hook	2649	http://www.aidimme.es/FurnitureSectorOntology.owl#Hook						hook		-	11
+toilet brush holder	2711	http://www.aidimme.es/FurnitureSectorOntology.owl#ToiletBrushHolder						toilet brush holder		-	11
+hanger	2887	http://www.aidimme.es/FurnitureSectorOntology.owl#Hanger						hanger		-	11
+rug	61	http://scan-net.org/concepts/rug	rug		40				rug.n.01	-	7
+screen	133	http://scan-net.org/concepts/screen	screen		40				curtain.n.01	-	7
+fitting	2214	http://www.aidimme.es/FurnitureSectorOntology.owl#Fitting						fitting	fitting.n.03	-	7
+holder shelf	2133	http://www.aidimme.es/FurnitureSectorOntology.owl#HolderShelf						holder shelf		-	8
+profile	2314	http://www.aidimme.es/FurnitureSectorOntology.owl#Profile						profile		-	8
+stay	2345	http://www.aidimme.es/FurnitureSectorOntology.owl#Stay						stay		-	8
+latch	2378	http://www.aidimme.es/FurnitureSectorOntology.owl#Latch						latch		-	8
+lock	2436	http://www.aidimme.es/FurnitureSectorOntology.owl#Lock						lock		-	8
+sliding rail	2685	http://www.aidimme.es/FurnitureSectorOntology.owl#SlidingRail						sliding rail		-	8
+knob	2759	http://www.aidimme.es/FurnitureSectorOntology.owl#Knob						knob		-	8
+key	2773	http://www.aidimme.es/FurnitureSectorOntology.owl#Key						key		-	8
+hinge	2863	http://www.aidimme.es/FurnitureSectorOntology.owl#Hinge						hinge		-	8
+keyhole	2435	http://www.aidimme.es/FurnitureSectorOntology.owl#Keyhole						keyhole	keyhole.n.01	-	8
+handle	2441	http://www.aidimme.es/FurnitureSectorOntology.owl#Handle						handle	handle.n.01	-	8
+safety grip handle	2915	http://www.aidimme.es/FurnitureSectorOntology.owl#SafetyGripHandle						safety grip handle		-	9
+home textile	2882	http://www.aidimme.es/FurnitureSectorOntology.owl#HomeTextile						home textile		-	7
+kitchen cloth	2095	http://www.aidimme.es/FurnitureSectorOntology.owl#KitchenCloth						kitchen cloth		-	8
+mattress cover	2195	http://www.aidimme.es/FurnitureSectorOntology.owl#MattressCover						mattress cover		-	8
+nursing chair pocket	2275	http://www.aidimme.es/FurnitureSectorOntology.owl#NursingChairPocket						nursing chair pocket		-	8
+low head protector	2364	http://www.aidimme.es/FurnitureSectorOntology.owl#LowHeadProtector						low head protector		-	8
+oven glove	2453	http://www.aidimme.es/FurnitureSectorOntology.owl#OvenGlove						oven glove		-	8
+bed sheet	2489	http://www.aidimme.es/FurnitureSectorOntology.owl#BedSheet						bed sheet		-	8
+protective cover	2518	http://www.aidimme.es/FurnitureSectorOntology.owl#ProtectiveCover						protective cover		-	8
+duvet cover	2524	http://www.aidimme.es/FurnitureSectorOntology.owl#DuvetCover						duvet cover		-	8
+strap	2594	http://www.aidimme.es/FurnitureSectorOntology.owl#Strap						strap		-	8
+lace	2843	http://www.aidimme.es/FurnitureSectorOntology.owl#Lace						lace		-	8
+apron	2855	http://www.aidimme.es/FurnitureSectorOntology.owl#Apron						apron		-	8
+blanket	54	http://www.aidimme.es/FurnitureSectorOntology.owl#Blanket	blanket		40			blanket	blanket.n.01	-	8
+bathrobe	346	http://www.aidimme.es/FurnitureSectorOntology.owl#Bathrobe	bathrobe		40			bathrobe	bathrobe.n.01	-	8
+bedclothes	2639	http://www.aidimme.es/FurnitureSectorOntology.owl#BedLinen		bed linen				bed linen	bedclothes.n.01	-	8
+quilt	3026	https://www.w3.org/2006/03/wn/wn20/instances/synset-quilt-noun-01							quilt.n.01	x	9
+duvet	2533	http://www.aidimme.es/FurnitureSectorOntology.owl#Duvet						duvet	eiderdown.n.01	-	10
+serviette	2653	http://www.aidimme.es/FurnitureSectorOntology.owl#Serviette						serviette	napkin.n.01	-	8
+tablecloth	2689	http://www.aidimme.es/FurnitureSectorOntology.owl#Tablecloth						tablecloth	tablecloth.n.01	-	8
+device	3027	https://www.w3.org/2006/03/wn/wn20/instances/synset-device-noun-01							device.n.01	x	6
+fan	76	http://scan-net.org/concepts/fan	fan		40				fan.n.01	-	7
+fire extinguisher	166	http://scan-net.org/concepts/fire_extinguisher	fire extinguisher		40				fire_extinguisher.n.01	-	7
+water cooler	177	http://scan-net.org/concepts/water_cooler	water cooler		39				water_cooler.n.01	-	7
+ceiling fan	682	http://scan-net.org/concepts/ceiling_fan	ceiling fan		40				fan.n.01	-	7
+smoke detector	1125	http://scan-net.org/concepts/smoke_detector	smoke detector		40				warning_device.n.01	-	7
+exercise machine	386	http://scan-net.org/concepts/exercise_machine	exercise machine		40				exercise_device.n.01	-	7
+treadmill	153	http://scan-net.org/concepts/treadmill	treadmill		39				treadmill.n.01	-	8
+gym electric	3028	http://atlantis-ar/indoor-taxonomy#gym_electric		gym electric						-	8
+remote	231	http://scan-net.org/concepts/remote	remote		40	remote_control	remote		remote_control.n.01	-	7
+heater	91	http://www.aidimme.es/FurnitureSectorOntology.owl#Heater	heater		39			heater	heater.n.01	-	7
+radiator	96	http://www.aidimme.es/FurnitureSectorOntology.owl#Radiator	radiator		39			radiator	radiator.n.02	-	8
+stove	62	http://scan-net.org/concepts/stove	stove		38	stove			stove.n.02	-	8
+tiled stove	3029	http://atlantis-ar/indoor-taxonomy#tiled_stove								-	9
+stovetop	1340	http://scan-net.org/concepts/stovetop	stovetop		38	stove			stove.n.02	-	8
+elliptical machine	893	http://scan-net.org/concepts/elliptical_machine	elliptical machine		40				exercise_device.n.01	-	7
+toilet flush button	1251	http://scan-net.org/concepts/toilet_flush_button	toilet flush button		40				release.n.08	-	7
+shredder	599	http://scan-net.org/concepts/shredder	shredder		40				shredder.n.01	-	7
+exercise bike	1337	http://scan-net.org/concepts/exercise_bike	exercise bike		40				shredder.n.01	-	7
+bath electric	3030	http://atlantis-ar/indoor-taxonomy#bath_electric		bath electric					electrical_device.n.01	-	7
+kitchen electric	3031	http://atlantis-ar/indoor-taxonomy#kitchen_electric		kitchen electric						-	8
+transformer	2827	http://www.aidimme.es/FurnitureSectorOntology.owl#Transformer						transformer	transformer.n.01	-	8
+transducer	3032	https://www.w3.org/2006/03/wn/wn20/instances/synset-transducer-noun-01							transducer.n.01	x	8
+electro-acoustic_transducer	3033	https://www.w3.org/2006/03/wn/wn20/instances/synset-electro-acoustic_transducer-noun-01							electro-acoustic_transducer.n.01	x	9
+speaker	118	http://scan-net.org/concepts/speaker	speaker		40	speaker			loudspeaker.n.01	-	10
+subwoofer	819	http://scan-net.org/concepts/subwoofer	subwoofer		40	speaker			subwoofer.n.01	-	11
+headphones	312	http://scan-net.org/concepts/headphones	headphones		40				earphone.n.01	-	10
+circuit	3034	https://www.w3.org/2006/03/wn/wn20/instances/synset-circuit-noun-01							circuit.n.01	x	8
+computer_circuit	3035	https://www.w3.org/2006/03/wn/wn20/instances/synset-computer_circuit-noun-01							computer_circuit.n.01	x	9
+printed_circuit	3036	https://www.w3.org/2006/03/wn/wn20/instances/synset-printed_circuit-noun-01							printed_circuit.n.01	x	10
+card	1268	http://scan-net.org/concepts/card	card		40				card.n.0	-	11
+electrical device	3037	http://atlantis-ar/indoor-taxonomy#electrical_device		electric other					electrical_device.n.01	-	7
+gym other	3038	http://atlantis-ar/indoor-taxonomy#gym_other		gym other					exercise_device.n.01	-	7
+musical instrument	2323	http://www.aidimme.es/FurnitureSectorOntology.owl#MusicalInstrument						musical instrument	musical_instrument.n.01	-	7
+stringed_instrument	3040	https://www.w3.org/2006/03/wn/wn20/instances/synset-stringed_instrument-noun-01							stringed_instrument.n.01	x	8
+guitar	112	http://www.aidimme.es/FurnitureSectorOntology.owl#Guitar	guitar		40	guitar		guitar	guitar.n.01	-	9
+piano	90	http://www.aidimme.es/FurnitureSectorOntology.owl#Piano	piano		39	piano		piano	piano.n.01	-	9
+keyboard piano	1180	http://scan-net.org/concepts/keyboard_piano	keyboard piano		39	piano			piano.n.01	-	9
+banjo	2458	http://www.aidimme.es/FurnitureSectorOntology.owl#Banjo						banjo	banjo.n.01	-	9
+zither	2474	http://www.aidimme.es/FurnitureSectorOntology.owl#Zither						zither	zither.n.01	-	9
+clavichord	2642	http://www.aidimme.es/FurnitureSectorOntology.owl#Clavichord						clavichord	clavichord.n.01	-	9
+clavier	3043	https://www.w3.org/2006/03/wn/wn20/instances/synset-clavier-noun-02							clavier.n.02	x	9
+harpsichord	3044	https://www.w3.org/2006/03/wn/wn20/instances/synset-harpsichord-noun-01							harpsichord.n.01	x	10
+virginal	2371	http://www.aidimme.es/FurnitureSectorOntology.owl#Virginal						virginal	virginal.n.01	-	11
+chordophone	3041	https://www.w3.org/2006/03/wn/wn20/instances/synset-chordophone-noun-01							chordophone.n.01	x	9
+mandolin	2387	http://www.aidimme.es/FurnitureSectorOntology.owl#Mandolin						mandolin	mandolin.n.01	-	10
+bowed_stringed_instrument	3042	https://www.w3.org/2006/03/wn/wn20/instances/synset-bowed_stringed_instrument-noun-01							bowed_stringed_instrument.n.01	x	9
+violin	2655	http://www.aidimme.es/FurnitureSectorOntology.owl#Violin						violin	violin.n.01	-	10
+cello	2779	http://www.aidimme.es/FurnitureSectorOntology.owl#Cello						cello	cello.n.01	-	10
+keyboard_instrument	3045	https://www.w3.org/2006/03/wn/wn20/instances/synset-keyboard_instrument-noun-01							keyboard_instrument.n.01	x	8
+percussion_instrument	3048	https://www.w3.org/2006/03/wn/wn20/instances/synset-percussion_instrument-noun-01							percussion_instrument.n.01	x	8
+maraca	321	http://scan-net.org/concepts/roomba	maraca		40				maraca.n.01	-	9
+drum set	1334	http://scan-net.org/concepts/drum_set	drum set		40				drum.n.01	-	9
+tambourine	2498	http://www.aidimme.es/FurnitureSectorOntology.owl#Tambourine						tambourine	tambourine.n.01	-	10
+xylophone	2191	http://www.aidimme.es/FurnitureSectorOntology.owl#Xylophone						xylophone	marimba.n.01	-	9
+maracas	2428	http://www.aidimme.es/FurnitureSectorOntology.owl#Maracas						maracas	maraca.n.01	-	9
+kettledrum	2585	http://www.aidimme.es/FurnitureSectorOntology.owl#Kettledrum						kettledrum	kettle.n.04	-	9
+cymbals	2622	http://www.aidimme.es/FurnitureSectorOntology.owl#Cymbals						cymbals	cymbal.n.01	-	9
+marimba	2774	http://www.aidimme.es/FurnitureSectorOntology.owl#Marimba						marimba	marimba.n.01	-	9
+castanets	2835	http://www.aidimme.es/FurnitureSectorOntology.owl#Castanets						castanets	bones.n.01	-	9
+wind_instrument	3049	https://www.w3.org/2006/03/wn/wn20/instances/synset-wind_instrument-noun-01							wind_instrument.n.01	x	8
+ocarina	2229	http://www.aidimme.es/FurnitureSectorOntology.owl#Ocarina						ocarina	ocarina.n.01	-	9
+woodwind	3050	https://www.w3.org/2006/03/wn/wn20/instances/synset-woodwind-noun-01							woodwind.n.01	x	9
+flute	3054	https://www.w3.org/2006/03/wn/wn20/instances/synset-flute-noun-01							flute.n.01	x	10
+piccolo	2271	http://www.aidimme.es/FurnitureSectorOntology.owl#Piccolo						piccolo	piccolo.n.01	-	11
+beating-reed_instrument	3051	https://www.w3.org/2006/03/wn/wn20/instances/synset-beating-reed_instrument-noun-01							beating-reed_instrument.n.01	x	10
+double-reed_instrument	3052	https://www.w3.org/2006/03/wn/wn20/instances/synset-double-reed_instrument-noun-01							double-reed_instrument.n.01	x	11
+bassoon	2528	http://www.aidimme.es/FurnitureSectorOntology.owl#Bassoon						bassoon	bassoon.n.01	-	12
+oboe	2906	http://www.aidimme.es/FurnitureSectorOntology.owl#Oboe						oboe	oboe.n.01	-	12
+single-reed_instrument	3053	https://www.w3.org/2006/03/wn/wn20/instances/synset-single-reed_instrument-noun-01							single-reed_instrument.n.01	x	11
+clarinet	2589	http://www.aidimme.es/FurnitureSectorOntology.owl#Clarinet						clarinet	clarinet.n.01	-	12
+percussion instrument	2148	http://www.aidimme.es/FurnitureSectorOntology.owl#PercussionInstrument						percussion instrument		-	8
+bass drum	2089	http://www.aidimme.es/FurnitureSectorOntology.owl#BassDrum						bass drum		-	9
+bongo	2287	http://www.aidimme.es/FurnitureSectorOntology.owl#Bongo						bongo		-	9
+snare drum	2417	http://www.aidimme.es/FurnitureSectorOntology.owl#SnareDrum						snare drum		-	9
+drum	2790	http://www.aidimme.es/FurnitureSectorOntology.owl#Drum						drum		-	9
+musical accessory	2257	http://www.aidimme.es/FurnitureSectorOntology.owl#MusicalAccessory						musical accessory		-	8
+drumstick	2822	http://www.aidimme.es/FurnitureSectorOntology.owl#Drumstick						drumstick		-	9
+woodwind instrument	2301	http://www.aidimme.es/FurnitureSectorOntology.owl#WoodwindInstrument						woodwind instrument		-	8
+flute	2902	http://www.aidimme.es/FurnitureSectorOntology.owl#Flute						flute		-	9
+transverse flute	2662	http://www.aidimme.es/FurnitureSectorOntology.owl#TransverseFlute						transverse flute		-	10
+recorder	2811	http://www.aidimme.es/FurnitureSectorOntology.owl#Recorder						recorder		-	10
+stringed instrument	2800	http://www.aidimme.es/FurnitureSectorOntology.owl#StringedInstrument						stringed instrument		-	8
+ukelele	2109	http://www.aidimme.es/FurnitureSectorOntology.owl#Ukelele						ukelele		-	9
+harp	2149	http://www.aidimme.es/FurnitureSectorOntology.owl#Harp						harp		-	9
+lute	2305	http://www.aidimme.es/FurnitureSectorOntology.owl#Lute						lute		-	9
+lire	2405	http://www.aidimme.es/FurnitureSectorOntology.owl#Lire						lire		-	9
+viola	2513	http://www.aidimme.es/FurnitureSectorOntology.owl#Viola						viola		-	9
+bass	2517	http://www.aidimme.es/FurnitureSectorOntology.owl#Bass						bass		-	9
+viola da gamba	2563	http://www.aidimme.es/FurnitureSectorOntology.owl#ViolaDaGamba						viola da gamba		-	9
+double bass	2643	http://www.aidimme.es/FurnitureSectorOntology.owl#DoubleBass						double bass		-	9
+hurdy gurdy	2837	http://www.aidimme.es/FurnitureSectorOntology.owl#HurdyGurdy						hurdy gurdy		-	9
+keyboard instrument	2853	http://www.aidimme.es/FurnitureSectorOntology.owl#KeyboardInstrument						keyboard instrument		-	8
+organ	2075	http://www.aidimme.es/FurnitureSectorOntology.owl#Organ						organ		-	9
+spinet	2098	http://www.aidimme.es/FurnitureSectorOntology.owl#Spinet						spinet		-	9
+electronic_device	3055	https://www.w3.org/2006/03/wn/wn20/instances/synset-electronic_device-noun-01							electronic_device.n.01	x	7
+tv	33	http://scan-net.org/concepts/tv	tv		25	tv or monitor	tv		display.n.06	-	8
+monitor	19	http://scan-net.org/concepts/monitor	monitor		40	tv or monitor			monitor.n.04	-	9
+bulletin board	154	http://scan-net.org/concepts/bulletin_board	bulletin board		38				display_panel.n.01	-	9
+mouse	202	http://scan-net.org/concepts/mouse	mouse		40		mouse		mouse.n.04	-	8
+organizer	361	http://scan-net.org/concepts/ipad	organizer		40				personal_digital_assistant.n.01	-	8
+kinect	1051	http://scan-net.org/concepts/kinect	kinect		40					-	8
+xbox controller	1305	http://scan-net.org/concepts/xbox_controller	xbox controller		40					-	8
+display	1351	http://scan-net.org/concepts/display	display		39				display.n.06	-	8
+media devices	3056	http://atlantis-ar/indoor-taxonomy#media_devices		living media						-	8
+office IT	3057	http://atlantis-ar/indoor-taxonomy#office_it		office edv						-	8
+support	3058	https://www.w3.org/2006/03/wn/wn20/instances/synset-support-noun-10							support.n.10	x	7
+step	117	http://www.aidimme.es/FurnitureSectorOntology.owl#Step	step		38			step	step.n.04	-	8
+stair	1220	http://scan-net.org/concepts/stair	stair		38				step.n.04	-	8
+clothing rack	1242	http://scan-net.org/concepts/clothing_rack	clothing rack		39				rack.n.05	-	8
+rack stand	1270	http://scan-net.org/concepts/rack_stand	rack stand		39				rack.n.05	-	8
+storage shelf	794	http://scan-net.org/concepts/storage_shelf	storage shelf		40				shelf.n.01	-	8
+bookshelf	18	http://scan-net.org/concepts/bookshelf	bookshelf		10	bookshelf			bookshelf.n.01	-	9
+book rack	326	http://scan-net.org/concepts/book_rack	book rack		39				bookshelf.n.01	-	9
+organizer shelf	1283	http://scan-net.org/concepts/organizer_shelf	organizer shelf		15	bookshelf			bookshelf.n.01	-	9
+pantry shelf	1316	http://scan-net.org/concepts/pantry_shelf	pantry shelf		15	bookshelf			bookshelf.n.01	-	9
+closet shelf	1335	http://scan-net.org/concepts/closet_shelf	closet shelf		15	bookshelf			bookshelf.n.01	-	9
+display rack	1290	http://scan-net.org/concepts/display_rack	display rack		39				rack.n.05	-	8
+building element	2264	http://www.aidimme.es/FurnitureSectorOntology.owl#BuildingElement						building element	structural_member.n.01	-	8
+sill	3059	https://www.w3.org/2006/03/wn/wn20/instances/synset-sill-noun-01							sill.n.01	x	9
+windowsill	141	http://scan-net.org/concepts/windowsill	windowsill		38				windowsill.n.01	-	10
+upright	3060	https://www.w3.org/2006/03/wn/wn20/instances/synset-upright-noun-01							upright.n.01	x	9
+pillar	191	http://scan-net.org/concepts/pillar	pillar		38				column.n.07	-	10
+post	3061	https://www.w3.org/2006/03/wn/wn20/instances/synset-post-noun-04							post.n.04	x	10
+bollard	2367	http://www.aidimme.es/FurnitureSectorOntology.owl#Bollard						bollard	bollard.n.01	-	11
+beam	3062	https://www.w3.org/2006/03/wn/wn20/instances/synset-beam-noun-02							beam.n.02	x	9
+wood beam	1310	http://scan-net.org/concepts/wood_beam	wood beam		38					-	10
+beam	2680	http://www.aidimme.es/FurnitureSectorOntology.owl#Beam						beam		-	9
+building envelope	2722	http://www.aidimme.es/FurnitureSectorOntology.owl#BuildingEnvelope						building envelope		-	9
+tile	2735	http://www.aidimme.es/FurnitureSectorOntology.owl#Tile						tile		-	9
+truss	2828	http://www.aidimme.es/FurnitureSectorOntology.owl#Truss						truss		-	9
+flooring and coating	2157	http://www.aidimme.es/FurnitureSectorOntology.owl#FlooringAndCoating						flooring and coating		-	9
+floor covering	2132	http://www.aidimme.es/FurnitureSectorOntology.owl#FloorCovering						floor covering		-	10
+wall cladding	2529	http://www.aidimme.es/FurnitureSectorOntology.owl#WallCladding						wall cladding		-	10
+roof cladding	2634	http://www.aidimme.es/FurnitureSectorOntology.owl#RoofCladding						roof cladding		-	10
+backrest	2316	http://www.aidimme.es/FurnitureSectorOntology.owl#Backrest						backrest	back.n.08	-	8
+hanger	3063	https://www.w3.org/2006/03/wn/wn20/instances/synset-hanger-noun-02							hanger.n.02	x	8
+clothes hanger	1199	http://scan-net.org/concepts/clothes_hanger	clothes hanger		40				coat_hanger.n.01	-	9
+seat	3064	https://www.w3.org/2006/03/wn/wn20/instances/synset-seat-noun-04							seat.n.04	x	8
+car seat	1240	http://scan-net.org/concepts/carseat	car seat		40				car_seat.n.01	-	9
+rest	3065	https://www.w3.org/2006/03/wn/wn20/instances/synset-rest-noun-06							rest.n.06	x	8
+armrest	2490	http://www.aidimme.es/FurnitureSectorOntology.owl#Armrest						armrest	armrest.n.01	-	9
+reflector	3066	https://www.w3.org/2006/03/wn/wn20/instances/synset-reflector-noun-01							reflector.n.01	x	7
+keyboard	3067	https://www.w3.org/2006/03/wn/wn20/instances/synset-keyboard-noun-01							keyboard.n.01	x	7
+source_of_illumination	3068	https://www.w3.org/2006/03/wn/wn20/instances/synset-source_of_illumination-noun-01							source_of_illumination.n.01	x	7
+light	105	http://scan-net.org/concepts/light	light		38				light.n.02	-	8
+night-light	3069	https://www.w3.org/2006/03/wn/wn20/instances/synset-night-light-noun-01							night-light.n.01	x	9
+night light	1330	http://scan-net.org/concepts/night_light	night light		40					-	10
+ceiling light	1168	http://scan-net.org/concepts/ceiling_light	ceiling light		38				light.n.02	-	8
+lamp	3070	https://www.w3.org/2006/03/wn/wn20/instances/synset-lamp-noun-01							lamp.n.01	x	8
+mechanism	3071	https://www.w3.org/2006/03/wn/wn20/instances/synset-mechanism-noun-05							mechanism.n.05	x	7
+controller	247	http://scan-net.org/concepts/controller	controller		40				control.n.09	-	8
+light switch	232	http://scan-net.org/concepts/light_switch	light switch		38				switch.n.01	-	9
+elevator button	1333	http://scan-net.org/concepts/elevator_button	elevator button		40				push_button.n.01	-	10
+switch	182	http://scan-net.org/concepts/switch	switch		40				switch.n.01	-	9
+regulator	3072	https://www.w3.org/2006/03/wn/wn20/instances/synset-regulator-noun-01							regulator.n.01	x	9
+thermostat	1195	http://scan-net.org/concepts/thermostat	thermostat		40				thermostat.n.01	-	10
+faucet	83	http://scan-net.org/concepts/faucet	faucet		40	faucet			faucet.n.01	-	10
+shower faucet handle	972	http://scan-net.org/concepts/shower_faucet_handle	shower faucet handle		40				faucet.n.01	-	10
+handwheel	3073	https://www.w3.org/2006/03/wn/wn20/instances/synset-handwheel-noun-02							handwheel.n.02	x	9
+gaming wheel	939	http://scan-net.org/concepts/gaming_wheel	gaming wheel		40				steering_wheel.n.01	-	10
+robot	2519	http://www.aidimme.es/FurnitureSectorOntology.owl#Robot						robot	automaton.n.02	-	8
+stacker robot	2338	http://www.aidimme.es/FurnitureSectorOntology.owl#StackerRobot						stacker robot		-	9
+stapler robot	2429	http://www.aidimme.es/FurnitureSectorOntology.owl#StaplerRobot						stapler robot		-	9
+welding robot	2451	http://www.aidimme.es/FurnitureSectorOntology.owl#WeldingRobot						welding robot		-	9
+mechanical_device	3074	https://www.w3.org/2006/03/wn/wn20/instances/synset-mechanical_device-noun-01							mechanical_device.n.01	x	8
+fire sprinkler	1321	http://scan-net.org/concepts/fire_sprinkler	fire sprinkler		40				sprinkler.n.01	-	9
+pump	3075	https://www.w3.org/2006/03/wn/wn20/instances/synset-pump-noun-01							pump.n.01	x	9
+bike pump	1259	http://scan-net.org/concepts/bike_pump	bike pump		40				bicycle_pump.n.01	-	10
+machine	3076	https://www.w3.org/2006/03/wn/wn20/instances/synset-machine-noun-04							machine.n.04	x	9
+wheel	1274	http://scan-net.org/concepts/wheel	wheel		40				wheel.n.01	-	10
+coupling	3077	https://www.w3.org/2006/03/wn/wn20/instances/synset-coupling-noun-02							coupling.n.02	x	9
+swivel	2329	http://www.aidimme.es/FurnitureSectorOntology.owl#Swivel						swivel	swivel.n.01	-	10
+rotating_mechanism	3078	https://www.w3.org/2006/03/wn/wn20/instances/synset-rotating_mechanism-noun-01							rotating_mechanism.n.01	x	8
+circle	3079	https://www.w3.org/2006/03/wn/wn20/instances/synset-circle-noun-08							circle.n.08	x	9
+disk	3080	https://www.w3.org/2006/03/wn/wn20/instances/synset-disk-noun-02							disk.n.02	x	10
+instrument	3081	https://www.w3.org/2006/03/wn/wn20/instances/synset-instrument-noun-01							instrument.n.01	x	7
+measuring_instrument	3082	https://www.w3.org/2006/03/wn/wn20/instances/synset-measuring_instrument-noun-01							measuring_instrument.n.01	x	8
+scale	229	http://scan-net.org/concepts/scale	scale		40				scale.n.07	-	9
+thermometer	2056	http://www.aidimme.es/FurnitureSectorOntology.owl#Thermometer						thermometer	thermometer.n.01	-	9
+hygrometer	2720	http://www.aidimme.es/FurnitureSectorOntology.owl#Hygrometer						hygrometer	hygrometer.n.01	-	9
+timepiece	3083	https://www.w3.org/2006/03/wn/wn20/instances/synset-timepiece-noun-01							timepiece.n.01	x	9
+clock	103	http://scan-net.org/concepts/clock	clock		40	clock	clock		clock.n.01	-	10
+alarm clock	572	http://scan-net.org/concepts/alarm_clock	alarm clock		40	clock			alarm_clock.n.01	-	11
+alarm	518	http://scan-net.org/concepts/alarm	alarm		40	clock			alarm_clock.n.01	-	11
+chronometer	2839	http://www.aidimme.es/FurnitureSectorOntology.owl#Chronometer						chronometer	chronometer.n.01	-	11
+optical_instrument	3084	https://www.w3.org/2006/03/wn/wn20/instances/synset-optical_instrument-noun-01							optical_instrument.n.01	x	8
+projector	264	http://scan-net.org/concepts/projector	projector		40				projector.n.02	-	9
+eye glasses	2018	http://atlantis-ar/indoor-taxonomy#eye_glasses					eye glasses		eyeglasses.n.01	-	9
+spectacles	3085	https://www.w3.org/2006/03/wn/wn20/instances/synset-spectacles-noun-01							spectacles.n.01	x	9
+protective goggles	2241	http://www.aidimme.es/FurnitureSectorOntology.owl#ProtectiveGoggles						protective goggles	goggles.n.01	-	10
+weapon	3086	https://www.w3.org/2006/03/wn/wn20/instances/synset-weapon-noun-01							weapon.n.01	x	8
+gun	3087	https://www.w3.org/2006/03/wn/wn20/instances/synset-gun-noun-01							gun.n.01	x	9
+firearm	3088	https://www.w3.org/2006/03/wn/wn20/instances/synset-firearm-noun-01							firearm.n.01	x	10
+pistol	3089	https://www.w3.org/2006/03/wn/wn20/instances/synset-pistol-noun-01							pistol.n.01	x	11
+rod	750	http://scan-net.org/concepts/rod	rod		40	pistol			gat.n.01	-	12
+scientific_instrument	3090	https://www.w3.org/2006/03/wn/wn20/instances/synset-scientific_instrument-noun-01							scientific_instrument.n.01	x	8
+magnifier	3091	https://www.w3.org/2006/03/wn/wn20/instances/synset-magnifier-noun-01							magnifier.n.01	x	9
+telescope	1344	http://scan-net.org/concepts/telescope	telescope		40				telescope.n.01	-	10
+alarm	3092	https://www.w3.org/2006/03/wn/wn20/instances/synset-alarm-noun-02							alarm.n.02	x	7
+fire alarm	1185	http://scan-net.org/concepts/fire_alarm	fire alarm		40				fire_alarm.n.02	-	8
+restraint	3093	https://www.w3.org/2006/03/wn/wn20/instances/synset-restraint-noun-06							restraint.n.06	x	7
+fastener	3094	https://www.w3.org/2006/03/wn/wn20/instances/synset-fastener-noun-02							fastener.n.02	x	8
+clip	1350	http://scan-net.org/concepts/clip	clip		40				clip.n.03	-	9
+lock	3095	https://www.w3.org/2006/03/wn/wn20/instances/synset-lock-noun-01							lock.n.01	x	9
+bike lock	1284	http://scan-net.org/concepts/bike_lock	bike lock		40					-	10
+lifting_device	3096	https://www.w3.org/2006/03/wn/wn20/instances/synset-lifting_device-noun-01							lifting_device.n.01	x	7
+elevator	1295	http://scan-net.org/concepts/elevator	elevator		38				elevator.n.01	-	8
+holding_device	3097	https://www.w3.org/2006/03/wn/wn20/instances/synset-holding_device-noun-01							holding_device.n.01	x	7
+holder	3098	https://www.w3.org/2006/03/wn/wn20/instances/synset-holder-noun-01							holder.n.01	x	8
+banana holder	1306	http://scan-net.org/concepts/banana_holder	banana holder		40					-	9
+pen holder	1327	http://scan-net.org/concepts/pen_holder	pen holder		40					-	9
+conductor	3099	https://www.w3.org/2006/03/wn/wn20/instances/synset-conductor-noun-04							conductor.n.04	x	7
+cable	436	http://scan-net.org/concepts/cable	cable		40				cable.n.02	-	8
+runner	3100	https://www.w3.org/2006/03/wn/wn20/instances/synset-runner-noun-09							runner.n.09	x	7
+skis	2022	http://atlantis-ar/indoor-taxonomy#skis					skis		ski.n.01	-	8
+filter	3101	https://www.w3.org/2006/03/wn/wn20/instances/synset-filter-noun-01							filter.n.01	x	7
+implement	3102	https://www.w3.org/2006/03/wn/wn20/instances/synset-implement-noun-01							implement.n.01	x	6
+bar	145	http://scan-net.org/concepts/bar	bar		38				bar.n.03	-	7
+grab bar	1216	http://scan-net.org/concepts/handicap_bar	grab bar		38				grab_bar.n.01	-	8
+lever	3103	https://www.w3.org/2006/03/wn/wn20/instances/synset-lever-noun-01							lever.n.01	x	8
+compound_lever	3104	https://www.w3.org/2006/03/wn/wn20/instances/synset-compound_lever-noun-01							compound_lever.n.01	x	9
+scissors	2045	http://atlantis-ar/indoor-taxonomy#scissors					scissors		scissors.n.01	-	10
+closet rod	1175	http://scan-net.org/concepts/closet_rod	closet rod		40				rod.n.01	-	7
+shower curtain rod	170	http://scan-net.org/concepts/shower_curtain_rod	shower curtain rod		40					-	8
+curtain rod	513	http://scan-net.org/concepts/curtain_rod	curtain rod		38					-	8
+hair brush	1235	http://scan-net.org/concepts/hair_brush	hair brush		40		hair brush		brush.n.02	-	7
+blackboard eraser	1275	http://scan-net.org/concepts/blackboard_eraser	blackboard eraser		40				eraser.n.01	-	7
+whiteboard eraser	1200	http://scan-net.org/concepts/whiteboard_eraser	whiteboard eraser		40				blackboard_eraser.n.01	-	8
+cleaning utensil	3105	http://atlantis-ar/indoor-taxonomy#cleaning_utensil		cleaning					utensil.n.01	-	7
+kitchen accessoires	3106	http://atlantis-ar/indoor-taxonomy#kitchen_accessoires		kitchen accessoires					kitchen_utensil.n.01	-	8
+kitchen mixer	1314	http://scan-net.org/concepts/kitchen_mixer	kitchen mixer		40				mixer.n.04	-	9
+cooking_utensil	3107	https://www.w3.org/2006/03/wn/wn20/instances/synset-cooking_utensil-noun-01							cooking_utensil.n.01	x	9
+rice cooker	1214	http://scan-net.org/concepts/rice_cooker	rice cooker		40				cooker.n.01	-	10
+cooking pan	1296	http://scan-net.org/concepts/cooking_pan	cooking pan		40				pan.n.01	-	10
+griddle	2439	http://www.aidimme.es/FurnitureSectorOntology.owl#Griddle						griddle	griddle.n.01	-	10
+tool	3108	https://www.w3.org/2006/03/wn/wn20/instances/synset-tool-noun-01							tool.n.01	x	7
+hand_tool	3109	https://www.w3.org/2006/03/wn/wn20/instances/synset-hand_tool-noun-01							hand_tool.n.01	x	8
+plunger	300	http://scan-net.org/concepts/plunger	plunger		40				plunger.n.03	-	9
+cutting_implement	3110	https://www.w3.org/2006/03/wn/wn20/instances/synset-cutting_implement-noun-01							cutting_implement.n.01	x	8
+paper cutter	180	http://scan-net.org/concepts/paper_cutter	paper cutter		40				paper_cutter.n.01	-	9
+poster cutter	1263	http://scan-net.org/concepts/poster_cutter	poster cutter		40				paper_cutter.n.01	-	9
+cutter	3111	https://www.w3.org/2006/03/wn/wn20/instances/synset-cutter-noun-06							cutter.n.06	x	9
+edge_tool	3112	https://www.w3.org/2006/03/wn/wn20/instances/synset-edge_tool-noun-01							edge_tool.n.01	x	10
+knife	2032	http://atlantis-ar/indoor-taxonomy#knife					knife		knife.n.01	-	11
+power_tool	3113	https://www.w3.org/2006/03/wn/wn20/instances/synset-power_tool-noun-01							power_tool.n.01	x	8
+planer	2880	http://www.aidimme.es/FurnitureSectorOntology.owl#Planer						planer	plane.n.04	-	9
+power_saw	3114	https://www.w3.org/2006/03/wn/wn20/instances/synset-power_saw-noun-01							power_saw.n.01	x	9
+cnc bandsaw	2530	http://www.aidimme.es/FurnitureSectorOntology.owl#CNCBandsaw						cnc bandsaw	bandsaw.n.01	-	10
+cleaning_implement	3115	https://www.w3.org/2006/03/wn/wn20/instances/synset-cleaning_implement-noun-01							cleaning_implement.n.01	x	7
+sports_implement	3116	https://www.w3.org/2006/03/wn/wn20/instances/synset-sports_implement-noun-01							sports_implement.n.01	x	7
+racket	3117	https://www.w3.org/2006/03/wn/wn20/instances/synset-racket-noun-04							racket.n.04	x	8
+tennis racket	1236	http://scan-net.org/concepts/tennis_racket	tennis racket		40		tennis racket		tennis_racket.n.01	-	9
+stick	3118	https://www.w3.org/2006/03/wn/wn20/instances/synset-stick-noun-01							stick.n.01	x	7
+staff	3119	https://www.w3.org/2006/03/wn/wn20/instances/synset-staff-noun-02							staff.n.02	x	8
+crutches	1250	http://scan-net.org/concepts/crutches	crutches		40				crutch.n.01	-	9
+club	3120	https://www.w3.org/2006/03/wn/wn20/instances/synset-club-noun-03							club.n.03	x	8
+bat	3121	https://www.w3.org/2006/03/wn/wn20/instances/synset-bat-noun-05							bat.n.05	x	9
+paddle	3122	https://www.w3.org/2006/03/wn/wn20/instances/synset-paddle-noun-01							paddle.n.01	x	10
+ping pong paddle	298	http://scan-net.org/concepts/ping_pong_paddle	ping pong paddle		40				pingpong_paddle.n.01	-	11
+conveyance	3123	https://www.w3.org/2006/03/wn/wn20/instances/synset-conveyance-noun-03							conveyance.n.03	x	6
+vehicle	3124	https://www.w3.org/2006/03/wn/wn20/instances/synset-vehicle-noun-01							vehicle.n.01	x	7
+craft	3128	https://www.w3.org/2006/03/wn/wn20/instances/synset-craft-noun-02							craft.n.02	x	8
+aircraft	3129	https://www.w3.org/2006/03/wn/wn20/instances/synset-aircraft-noun-01							aircraft.n.01	x	9
+heavier-than-air_craft	3130	https://www.w3.org/2006/03/wn/wn20/instances/synset-heavier-than-air_craft-noun-01							heavier-than-air_craft.n.01	x	10
+vessel	3131	https://www.w3.org/2006/03/wn/wn20/instances/synset-vessel-noun-02							vessel.n.02	x	9
+connection	3132	https://www.w3.org/2006/03/wn/wn20/instances/synset-connection-noun-03							connection.n.03	x	6
+attachment	3133	https://www.w3.org/2006/03/wn/wn20/instances/synset-attachment-noun-04							attachment.n.04	x	7
+ligament	3134	https://www.w3.org/2006/03/wn/wn20/instances/synset-ligament-noun-02							ligament.n.02	x	8
+chain	623	http://scan-net.org/concepts/chain	chain		40				chain.n.03	-	9
+creation	3257	https://www.w3.org/2006/03/wn/wn20/instances/synset-creation-noun-02							creation.n.02	x	5
+product	3258	https://www.w3.org/2006/03/wn/wn20/instances/synset-product-noun-02							product.n.02	x	6
+book	22	http://scan-net.org/concepts/book	book		23		book		book.n.02	-	7
+music book	1213	http://scan-net.org/concepts/music_book	music book		23					-	8
+work	3259	https://www.w3.org/2006/03/wn/wn20/instances/synset-work-noun-02							work.n.02	x	7
+publication	3260	https://www.w3.org/2006/03/wn/wn20/instances/synset-publication-noun-01							publication.n.01	x	8
+magazine	339	http://scan-net.org/concepts/magazine	magazine		40				magazine.n.01	-	9
+representation	3261	https://www.w3.org/2006/03/wn/wn20/instances/synset-representation-noun-02							representation.n.02	x	6
+picture	15	http://scan-net.org/concepts/picture	picture		11				picture.n.01	-	7
+poster	1188	http://scan-net.org/concepts/poster	poster		11				picture.n.01	-	7
+painting	1218	http://scan-net.org/concepts/painting	painting		11				picture.n.01	-	7
+map	365	http://scan-net.org/concepts/map	map		40				map.n.01	-	7
+photo	227	http://scan-net.org/concepts/photo	photo		40				photograph.n.01	-	7
+model	3262	https://www.w3.org/2006/03/wn/wn20/instances/synset-model-noun-04							model.n.04	x	7
+globe	269	http://scan-net.org/concepts/globe	globe		40				globe.n.03	-	8
+art	3263	https://www.w3.org/2006/03/wn/wn20/instances/synset-art-noun-01							art.n.01	x	6
+plastic_art	3264	https://www.w3.org/2006/03/wn/wn20/instances/synset-plastic_art-noun-01							plastic_art.n.01	x	7
+sculpture	3265	https://www.w3.org/2006/03/wn/wn20/instances/synset-sculpture-noun-01							sculpture.n.01	x	8
+statue	281	http://scan-net.org/concepts/statue	statue		40				statue.n.01	-	9
+buddha	1083	http://scan-net.org/concepts/buddha	buddha		40					-	10
+baby mobile	1336	http://scan-net.org/concepts/baby_mobile	baby mobile		40				mobile.n.03	-	9
+surface	3135	https://www.w3.org/2006/03/wn/wn20/instances/synset-surface-noun-01							surface.n.01	x	5
+projector screen	609	http://scan-net.org/concepts/projector_screen	projector screen		38				screen.n.01	-	6
+horizontal_surface	3136	https://www.w3.org/2006/03/wn/wn20/instances/synset-horizontal_surface-noun-01							horizontal_surface.n.01	x	6
+floor	3	http://scan-net.org/concepts/floor	floor		2				floor.n.01	-	7
+platform	235	http://scan-net.org/concepts/platform	platform		38				platform.n.01	-	7
+podium	1244	http://scan-net.org/concepts/podium	podium		39				dais.n.01	-	8
+landing	3137	http://atlantis-ar/indoor-taxonomy#landing							landing.n.01	-	8
+closet floor	1347	http://scan-net.org/concepts/closet_floor	closet floor		2				floor.n.01	-	7
+side	3138	https://www.w3.org/2006/03/wn/wn20/instances/synset-side-noun-05							side.n.05	x	6
+upper_surface	3139	https://www.w3.org/2006/03/wn/wn20/instances/synset-upper_surface-noun-01							upper_surface.n.01	x	7
+ceiling	41	http://scan-net.org/concepts/ceiling	ceiling		22				ceiling.n.01	-	8
+intermediate ceiling	3140	http://atlantis-ar/indoor-taxonomy#intermediate_ceiling								-	9
+closet ceiling	1225	http://scan-net.org/concepts/closet_ceiling	closet ceiling		22				ceiling.n.01	-	8
+sloping ceiling	3141	http://atlantis-ar/indoor-taxonomy#sloping_ceiling								-	8
+board	3142	https://www.w3.org/2006/03/wn/wn20/instances/synset-board-noun-09							board.n.09	x	6
+dart board	1215	http://scan-net.org/concepts/dart_board	dart board		38				dartboard.n.01	-	7
+fabric	3143	https://www.w3.org/2006/03/wn/wn20/instances/synset-fabric-noun-01							fabric.n.01	x	5
+piece_of_cloth	3144	https://www.w3.org/2006/03/wn/wn20/instances/synset-piece_of_cloth-noun-01							piece_of_cloth.n.01	x	6
+towel	31	http://scan-net.org/concepts/towel	towel		27				towel.n.01	-	7
+paper towel roll	138	http://scan-net.org/concepts/paper_towel_roll	paper towel roll		40				paper_towel.n.01	-	8
+hand towel	357	http://scan-net.org/concepts/hand_towel	hand towel		27				hand_towel.n.01	-	8
+paper towel	1353	http://scan-net.org/concepts/paper_towel	paper towel		40				paper_towel.n.01	-	8
+fixture	3145	https://www.w3.org/2006/03/wn/wn20/instances/synset-fixture-noun-01							fixture.n.01	x	5
+plumbing_fixture	3146	https://www.w3.org/2006/03/wn/wn20/instances/synset-plumbing_fixture-noun-01							plumbing_fixture.n.01	x	6
+urinal	1257	http://scan-net.org/concepts/urinal	urinal		33				urinal.n.01	-	7
+lighting_fixture	3149	https://www.w3.org/2006/03/wn/wn20/instances/synset-lighting_fixture-noun-01							lighting_fixture.n.01	x	6
+covering	3150	https://www.w3.org/2006/03/wn/wn20/instances/synset-covering-noun-02							covering.n.02	x	5
+folder	459	http://scan-net.org/concepts/folder	folder		40				folder.n.02	-	6
+protective_covering	3151	https://www.w3.org/2006/03/wn/wn20/instances/synset-protective_covering-noun-01							protective_covering.n.01	x	6
+blinds	86	http://scan-net.org/concepts/blinds	blinds		13				blind.n.03	-	7
+binder	693	http://scan-net.org/concepts/binder	binder		40				binder.n.03	-	7
+roof	3152	http://atlantis-ar/indoor-taxonomy#roof							roof.n.01	-	7
+shelter	3153	https://www.w3.org/2006/03/wn/wn20/instances/synset-shelter-noun-02							shelter.n.02	x	7
+canopy	1028	http://scan-net.org/concepts/canopy	canopy		40				canopy.n.03	-	8
+sunshade	3154	http://atlantis-ar/indoor-taxonomy#sunshade		garden sunshade					sunshade.n.01	-	9
+footwear	3155	https://www.w3.org/2006/03/wn/wn20/instances/synset-footwear-noun-02							footwear.n.02	x	6
+shoe	63	http://scan-net.org/concepts/shoe	shoe		40		shoe		shoe.n.01	-	7
+flip flops	1196	http://scan-net.org/concepts/flip_flops	flip flops		40				shoe.n.01	-	7
+slipper	238	http://scan-net.org/concepts/slipper	slipper		40				slipper.n.01	-	7
+boot	612	http://scan-net.org/concepts/boot	boot		40				shoe.n.01	-	7
+clothing	3156	https://www.w3.org/2006/03/wn/wn20/instances/synset-clothing-noun-01							clothing.n.01	x	6
+clothes	32	http://scan-net.org/concepts/clothes	clothes		21				apparel.n.01	-	7
+cloth	1197	http://scan-net.org/concepts/cloth	cloth		21				apparel.n.01	-	7
+kitchen apron	1303	http://scan-net.org/concepts/kitchen_apron	kitchen apron		21				apparel.n.01	-	7
+costume	1342	http://scan-net.org/concepts/costume	costume		21				apparel.n.01	-	7
+garment	3157	https://www.w3.org/2006/03/wn/wn20/instances/synset-garment-noun-01							garment.n.01	x	7
+shirt	189	http://scan-net.org/concepts/shirt	shirt		40				shirt.n.01	-	8
+pants	955	http://scan-net.org/concepts/pants	pants		40				trouser.n.01	-	8
+shorts	857	http://scan-net.org/concepts/shorts	shorts		40				short_pants.n.01	-	9
+sweater	265	http://scan-net.org/concepts/sweater	sweater		40				sweater.n.01	-	8
+overgarment	3158	https://www.w3.org/2006/03/wn/wn20/instances/synset-overgarment-noun-01							overgarment.n.01	x	8
+coat	111	http://scan-net.org/concepts/coat	coat		40				coat.n.01	-	9
+jacket	131	http://scan-net.org/concepts/jacket	jacket		40				jacket.n.01	-	10
+robe	3159	https://www.w3.org/2006/03/wn/wn20/instances/synset-robe-noun-01							robe.n.01	x	8
+headdress	3160	https://www.w3.org/2006/03/wn/wn20/instances/synset-headdress-noun-01							headdress.n.01	x	7
+hat	169	http://scan-net.org/concepts/hat	hat		40		hat		hat.n.01	-	8
+helmet	366	http://scan-net.org/concepts/helmet	helmet		40	helmet			helmet.n.02	-	8
+cap	3161	https://www.w3.org/2006/03/wn/wn20/instances/synset-cap-noun-01							cap.n.01	x	8
+cap	1293	http://scan-net.org/concepts/cap	cap		40					-	9
+baseball cap	1126	http://scan-net.org/concepts/baseball_cap	baseball cap		40	cap			baseball_cap.n.01	-	9
+handwear	3162	https://www.w3.org/2006/03/wn/wn20/instances/synset-handwear-noun-01							handwear.n.01	x	7
+glove	3163	https://www.w3.org/2006/03/wn/wn20/instances/synset-glove-noun-02							glove.n.02	x	8
+mitten	3164	https://www.w3.org/2006/03/wn/wn20/instances/synset-mitten-noun-01							mitten.n.01	x	9
+oven mitt	1233	http://scan-net.org/concepts/oven_mitt	oven mitt		40					-	10
+footwear	3165	https://www.w3.org/2006/03/wn/wn20/instances/synset-footwear-noun-01							footwear.n.01	x	7
+hosiery	3166	https://www.w3.org/2006/03/wn/wn20/instances/synset-hosiery-noun-01							hosiery.n.01	x	8
+sock	1301	http://scan-net.org/concepts/sock	sock		21				sock.n.01	-	9
+attire	3167	https://www.w3.org/2006/03/wn/wn20/instances/synset-attire-noun-01							attire.n.01	x	7
+hairpiece	3168	https://www.w3.org/2006/03/wn/wn20/instances/synset-hairpiece-noun-01							hairpiece.n.01	x	8
+wig	1329	http://scan-net.org/concepts/wig	wig		40				wig.n.01	-	9
+cloth_covering	3169	https://www.w3.org/2006/03/wn/wn20/instances/synset-cloth_covering-noun-01							cloth_covering.n.01	x	6
+hood	3171	https://www.w3.org/2006/03/wn/wn20/instances/synset-hood-noun-06							hood.n.06	x	6
+floor_cover	3172	https://www.w3.org/2006/03/wn/wn20/instances/synset-floor_cover-noun-01							floor_cover.n.01	x	6
+mat	140	http://scan-net.org/concepts/mat	mat		20				mat.n.01	-	7
+yoga mat	1267	http://scan-net.org/concepts/yoga_mat	yoga mat		20				mat.n.01	-	7
+commodity	3173	https://www.w3.org/2006/03/wn/wn20/instances/synset-commodity-noun-01							commodity.n.01	x	5
+consumer_goods	3174	https://www.w3.org/2006/03/wn/wn20/instances/synset-consumer_goods-noun-01							consumer_goods.n.01	x	6
+durables	3188	https://www.w3.org/2006/03/wn/wn20/instances/synset-durables-noun-01							durables.n.01	x	7
+appliance	3189	https://www.w3.org/2006/03/wn/wn20/instances/synset-appliance-noun-02							appliance.n.02	x	8
+hair dryer	370	http://scan-net.org/concepts/hair_dryer	hair dryer		40					-	9
+clothes dryer	110	http://scan-net.org/concepts/clothes_dryer	clothes dryer		39				dryer.n.01	-	9
+hand dryer	144	http://scan-net.org/concepts/hand_dryer	hand dryer		40					-	9
+humidifier	1261	http://scan-net.org/concepts/humidifier	humidifier		40					-	9
+household appliance	2700	http://www.aidimme.es/FurnitureSectorOntology.owl#HouseholdAppliance						household appliance	household_appliance.n.01	-	9
+juicer	2082	http://www.aidimme.es/FurnitureSectorOntology.owl#Juicer						juicer		-	10
+charger	2124	http://www.aidimme.es/FurnitureSectorOntology.owl#Charger						charger		-	10
+outdoor stove heater	2267	http://www.aidimme.es/FurnitureSectorOntology.owl#OutdoorStoveHeater						outdoor stove heater		-	10
+radio	2328	http://www.aidimme.es/FurnitureSectorOntology.owl#Radio						radio		-	10
+ice cube dispenser	2393	http://www.aidimme.es/FurnitureSectorOntology.owl#IceCubeDispenser						ice cube dispenser		-	10
+electric stove	2427	http://www.aidimme.es/FurnitureSectorOntology.owl#ElectricStove						electric stove		-	10
+sound system	2566	http://www.aidimme.es/FurnitureSectorOntology.owl#SoundSystem						sound system		-	10
+deep fryer	2860	http://www.aidimme.es/FurnitureSectorOntology.owl#DeepFryer						deep fryer		-	10
+television	2861	http://www.aidimme.es/FurnitureSectorOntology.owl#Television						television		-	10
+refrigerator	27	http://www.aidimme.es/FurnitureSectorOntology.owl#Refrigerator	refrigerator		24		refrigerator	refrigerator	refrigerator.n.01	-	10
+mini fridge	165	http://scan-net.org/concepts/mini_fridge	mini fridge		24				electric_refrigerator.n.01	-	11
+cooler	1062	http://scan-net.org/concepts/cooler	cooler		24				cooler.n.01	-	11
+refridgerator	3190	http://atlantis-ar/indoor-taxonomy#refridgerator		kitchen fridge					electric_refrigerator.n.01	-	11
+dishwasher	136	http://www.aidimme.es/FurnitureSectorOntology.owl#Dishwasher	dishwasher		38	dishwasher		dishwasher	dishwasher.n.01	-	10
+oven	84	http://www.aidimme.es/FurnitureSectorOntology.owl#Oven	oven		38		oven	oven	oven.n.01	-	10
+kitchen oven	3191	http://atlantis-ar/indoor-taxonomy#kitchen_oven		kitchen oven						-	11
+toaster	148	http://www.aidimme.es/FurnitureSectorOntology.owl#Toaster	toaster		40		toaster	toaster	toaster.n.02	-	10
+dryer	2836	http://www.aidimme.es/FurnitureSectorOntology.owl#Dryer						dryer	dryer.n.01	-	10
+home_appliance	3193	https://www.w3.org/2006/03/wn/wn20/instances/synset-home_appliance-noun-01							home_appliance.n.01	x	9
+vacuum cleaner	283	http://scan-net.org/concepts/vacuum_cleaner	vacuum cleaner		40				vacuum.n.04	-	10
+iron	378	http://www.aidimme.es/FurnitureSectorOntology.owl#Iron	iron		40			iron	iron.n.04	-	10
+sewing machine	529	http://www.aidimme.es/FurnitureSectorOntology.owl#SewingMachine	sewing machine		40			sewing machine	sewing_machine.n.01	-	10
+white_goods	3194	https://www.w3.org/2006/03/wn/wn20/instances/synset-white_goods-noun-01							white_goods.n.01	x	10
+washing machine	70	http://scan-net.org/concepts/washing_machine	washing machine		39	washing_machine			washer.n.03	-	11
+kitchen_appliance	3197	https://www.w3.org/2006/03/wn/wn20/instances/synset-kitchen_appliance-noun-01							kitchen_appliance.n.01	x	10
+microwave	59	http://www.aidimme.es/FurnitureSectorOntology.owl#MicrowaveOven	microwave		40	microwave	microwave		microwave.n.02	-	11
+coffee maker	134	http://scan-net.org/concepts/coffee_maker	coffee maker		40				coffee_maker.n.01	-	11
+toaster oven	195	http://scan-net.org/concepts/toaster_oven	toaster oven		40				toaster_oven.n.01	-	11
+drygoods	3199	https://www.w3.org/2006/03/wn/wn20/instances/synset-drygoods-noun-01							drygoods.n.01	x	6
+white_goods	3200	https://www.w3.org/2006/03/wn/wn20/instances/synset-white_goods-noun-02							white_goods.n.02	x	7
+linen	3201	https://www.w3.org/2006/03/wn/wn20/instances/synset-linen-noun-03							linen.n.03	x	8
+bath_linen	3202	https://www.w3.org/2006/03/wn/wn20/instances/synset-bath_linen-noun-01							bath_linen.n.01	x	9
+washcloth	523	http://scan-net.org/concepts/washcloth	washcloth		40				washcloth.n.01	-	10
+table_linen	3203	https://www.w3.org/2006/03/wn/wn20/instances/synset-table_linen-noun-01							table_linen.n.01	x	9
+sheet	3204	https://www.w3.org/2006/03/wn/wn20/instances/synset-sheet-noun-06							sheet.n.06	x	5
+board	69	http://scan-net.org/concepts/board	board		38				board.n.03	-	6
+cutting board	245	http://scan-net.org/concepts/cutting_board	cutting board		40				chopping_board.n.01	-	7
+snowboard	2023	http://atlantis-ar/indoor-taxonomy#snowboard					snowboard		snowboard.n.01	-	7
+surfboard	2029	http://atlantis-ar/indoor-taxonomy#surfboard					surfboard		surfboard.n.01	-	7
+panel	3205	https://www.w3.org/2006/03/wn/wn20/instances/synset-panel-noun-01							panel.n.01	x	6
+headboard	81	http://www.aidimme.es/FurnitureSectorOntology.owl#Headboard	headboard		39			headboard	headboard.n.01	-	7
+plinth panel	3267	http://atlantis-ar/indoor-taxonomy#plinth_panel								-	7
+plate	3206	https://www.w3.org/2006/03/wn/wn20/instances/synset-plate-noun-02							plate.n.02	x	6
+opening	3208	https://www.w3.org/2006/03/wn/wn20/instances/synset-opening-noun-10							opening.n.10	x	5
+window (opening)	3209	http://atlantis-ar/indoor-taxonomy#window_(opening)							window.n.07	-	6
+pass-through	3210	http://atlantis-ar/indoor-taxonomy#pass-through							pass-through.n.01	-	6
+door (opening)	3211	http://atlantis-ar/indoor-taxonomy#door_(opening)								-	6
+lunette	3212	http://atlantis-ar/indoor-taxonomy#lunette							lunette.n.02	-	6
+outlet	3213	http://atlantis-ar/indoor-taxonomy#outlet							outlet.n.03	-	6
+skylight (opening)	3214	http://atlantis-ar/indoor-taxonomy#skylight_(opening)							skylight.n.01	-	6
+spout	3215	https://www.w3.org/2006/03/wn/wn20/instances/synset-spout-noun-01							spout.n.01	x	6
+nozzle	3216	https://www.w3.org/2006/03/wn/wn20/instances/synset-nozzle-noun-01							nozzle.n.01	x	7
+shower head	1179	http://scan-net.org/concepts/shower_head	shower head		38				showerhead.n.01	-	8
+hole	3217	https://www.w3.org/2006/03/wn/wn20/instances/synset-hole-noun-02							hole.n.02	x	6
+vent	408	http://scan-net.org/concepts/vent	vent		40				vent.n.01	-	7
+spyhole	2664	http://www.aidimme.es/FurnitureSectorOntology.owl#Spyhole						spyhole	peephole.n.01	-	7
+sphere	3218	https://www.w3.org/2006/03/wn/wn20/instances/synset-sphere-noun-02							sphere.n.02	x	5
+strip	3219	https://www.w3.org/2006/03/wn/wn20/instances/synset-strip-noun-02							strip.n.02	x	5
+tape	922	http://scan-net.org/concepts/tape	tape		40				tape.n.01	-	6
+band	3220	https://www.w3.org/2006/03/wn/wn20/instances/synset-band-noun-07							band.n.07	x	6
+hoop	3221	https://www.w3.org/2006/03/wn/wn20/instances/synset-hoop-noun-02							hoop.n.02	x	7
+tire	452	http://scan-net.org/concepts/tire	tire		40				tire.n.01	-	8
+line	3222	https://www.w3.org/2006/03/wn/wn20/instances/synset-line-noun-18							line.n.18	x	5
+rope	556	http://scan-net.org/concepts/rope	rope		40				rope.n.01	-	6
+living_thing	3223	https://www.w3.org/2006/03/wn/wn20/instances/synset-living_thing-noun-01							living_thing.n.01	x	4
+organism	3224	https://www.w3.org/2006/03/wn/wn20/instances/synset-organism-noun-01							organism.n.01	x	5
+plant	40	http://scan-net.org/concepts/plant	plant		40				plant.n.02	-	6
+garden outdoor plants	3225	http://atlantis-ar/indoor-taxonomy#garden_outdoor_plants		garden outdoor plants						-	7
+vascular_plant	3226	https://www.w3.org/2006/03/wn/wn20/instances/synset-vascular_plant-noun-01							vascular_plant.n.01	x	7
+woody_plant	3227	https://www.w3.org/2006/03/wn/wn20/instances/synset-woody_plant-noun-01							woody_plant.n.01	x	8
+shrub	3228	https://www.w3.org/2006/03/wn/wn20/instances/synset-shrub-noun-01							shrub.n.01	x	9
+swiffer	434	http://scan-net.org/concepts/swiffer	swiffer		40				broom.n.02	-	10
+potted plant	1189	http://scan-net.org/concepts/potted_plant	potted plant		40		potted plant		plant.n.02	-	6
+animal	3229	https://www.w3.org/2006/03/wn/wn20/instances/synset-animal-noun-01							animal.n.01	x	6
+pet	3230	http://atlantis-ar/indoor-taxonomy#pet		pet					pet.n.01	-	7
+invertebrate	3231	https://www.w3.org/2006/03/wn/wn20/instances/synset-invertebrate-noun-01							invertebrate.n.01	x	7
+sponge	1278	http://scan-net.org/concepts/sponge	sponge		40				sponge.n.04	-	8
+chordate	3232	https://www.w3.org/2006/03/wn/wn20/instances/synset-chordate-noun-01							chordate.n.01	x	7
+vertebrate	3233	https://www.w3.org/2006/03/wn/wn20/instances/synset-vertebrate-noun-01							vertebrate.n.01	x	8
+bird	2009	http://atlantis-ar/indoor-taxonomy#bird					bird		bird.n.01	-	9
+aquatic_vertebrate	3234	https://www.w3.org/2006/03/wn/wn20/instances/synset-aquatic_vertebrate-noun-01							aquatic_vertebrate.n.01	x	9
+fish	1318	http://scan-net.org/concepts/fish	fish		40				fish.n.01	-	10
+mammal	3235	https://www.w3.org/2006/03/wn/wn20/instances/synset-mammal-noun-01							mammal.n.01	x	9
+placental	3236	https://www.w3.org/2006/03/wn/wn20/instances/synset-placental-noun-01							placental.n.01	x	10
+carnivore	3237	https://www.w3.org/2006/03/wn/wn20/instances/synset-carnivore-noun-01							carnivore.n.01	x	11
+feline	3238	https://www.w3.org/2006/03/wn/wn20/instances/synset-feline-noun-01							feline.n.01	x	12
+cat	2010	http://atlantis-ar/indoor-taxonomy#cat					cat		cat.n.01	-	13
+canine	3239	https://www.w3.org/2006/03/wn/wn20/instances/synset-canine-noun-02							canine.n.02	x	12
+dog	2011	http://atlantis-ar/indoor-taxonomy#dog					dog		dog.n.01	-	13
+ungulate	3240	https://www.w3.org/2006/03/wn/wn20/instances/synset-ungulate-noun-01							ungulate.n.01	x	11
+odd-toed_ungulate	3241	https://www.w3.org/2006/03/wn/wn20/instances/synset-odd-toed_ungulate-noun-01							odd-toed_ungulate.n.01	x	12
+equine	3242	https://www.w3.org/2006/03/wn/wn20/instances/synset-equine-noun-01							equine.n.01	x	13
+even-toed_ungulate	3243	https://www.w3.org/2006/03/wn/wn20/instances/synset-even-toed_ungulate-noun-01							even-toed_ungulate.n.01	x	12
+ruminant	3244	https://www.w3.org/2006/03/wn/wn20/instances/synset-ruminant-noun-01							ruminant.n.01	x	13
+domestic_animal	3245	https://www.w3.org/2006/03/wn/wn20/instances/synset-domestic_animal-noun-01							domestic_animal.n.01	x	7
+person	3246	https://www.w3.org/2006/03/wn/wn20/instances/synset-person-noun-01							person.n.01	x	6
+capitalist	3247	https://www.w3.org/2006/03/wn/wn20/instances/synset-capitalist-noun-02							capitalist.n.02	x	7
+businessperson	3248	https://www.w3.org/2006/03/wn/wn20/instances/synset-businessperson-noun-01							businessperson.n.01	x	8
+merchant	3249	https://www.w3.org/2006/03/wn/wn20/instances/synset-merchant-noun-01							merchant.n.01	x	9
+nan	3268	http://atlantis-ar/indoor-taxonomy#nan								-	0
