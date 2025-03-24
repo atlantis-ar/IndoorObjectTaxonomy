@@ -140,8 +140,8 @@ viscoelastic mattress	2849	http://www.aidimme.es/FurnitureSectorOntology.owl#Vis
 futon	354	http://scan-net.org/concepts/futon	futon		39				futon.n.01	-	8
 air mattress	1349	http://www.aidimme.es/FurnitureSectorOntology.owl#AirMattress	air mattress		4	bed		air mattress	air_mattress.n.01	-	8
 way	2962	https://www.w3.org/2006/03/wn/wn20/instances/synset-way-noun-06							way.n.06	-	5
-stairs	58	http://scan-net.org/concepts/stairs	stairs		38				stairway.n.01	-	6
-stairs	2963	https://www.w3.org/2006/03/wn/wn20/instances/synset-stairs-noun-01							stairs.n.01	x	7
+stairway	58	https://www.w3.org/2006/03/wn/wn20/instances/synset-stairway-noun-01			38				stairway.n.01	-	6
+stairs	2963	https://www.w3.org/2006/03/wn/wn20/instances/synset-stairs-noun-01	stairs 					stairs.n.01	-	7
 ladder	122	http://www.aidimme.es/FurnitureSectorOntology.owl#Ladder	ladder		39			ladder	ladder.n.01	-	8
 stepladder	851	http://scan-net.org/concepts/stepladder	stepladder		39				step_ladder.n.01	-	9
 telescopic ladder	2128	http://www.aidimme.es/FurnitureSectorOntology.owl#TelescopicLadder						telescopic ladder		-	9

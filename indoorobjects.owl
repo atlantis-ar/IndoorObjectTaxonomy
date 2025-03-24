@@ -995,11 +995,6 @@
     <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
     <rdfs:label xml:lang="en">recess.n.04</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://www.w3.org/2006/03/wn/wn20/instances/synset-stairs-noun-01">
-    <rdfs:label xml:lang="en">stairs.n.01</rdfs:label>
-    <rdfs:subClassOf rdf:resource="http://scan-net.org/concepts/stairs"/>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://atlantis-ar/indoor-taxonomy#kitchen_oven">
     <rdfs:subClassOf rdf:resource="http://www.aidimme.es/FurnitureSectorOntology.owl#Oven"/>
     <rdfs:label xml:lang="en">kitchen oven</rdfs:label>
@@ -4031,9 +4026,14 @@
     <rdfs:label xml:lang="en">kitchen apron</rdfs:label>
     <rdfs:subClassOf rdf:resource="https://www.w3.org/2006/03/wn/wn20/instances/synset-clothing-noun-01"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://scan-net.org/concepts/stairs">
+  <rdf:Description rdf:about="https://www.w3.org/2006/03/wn/wn20/instances/synset-stairway-noun-01">
     <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
     <rdfs:subClassOf rdf:resource="https://www.w3.org/2006/03/wn/wn20/instances/synset-way-noun-06"/>
+    <rdfs:label xml:lang="en">stairway</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.w3.org/2006/03/wn/wn20/instances/synset-stairs-noun-01">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="https://www.w3.org/2006/03/wn/wn20/instances/synset-stairway-noun-01"/>
     <rdfs:label xml:lang="en">stairs</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://www.aidimme.es/FurnitureSectorOntology.owl#StepLadder">
