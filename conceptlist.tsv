@@ -758,9 +758,8 @@ upright	3060	https://www.w3.org/2006/03/wn/wn20/instances/synset-upright-noun-01
 pillar	191	http://scan-net.org/concepts/pillar	pillar		38				column.n.07	-	10
 post	3061	https://www.w3.org/2006/03/wn/wn20/instances/synset-post-noun-04							post.n.04	x	10
 bollard	2367	http://www.aidimme.es/FurnitureSectorOntology.owl#Bollard						bollard	bollard.n.01	-	11
-beam	3062	https://www.w3.org/2006/03/wn/wn20/instances/synset-beam-noun-02							beam.n.02	x	9
+beam	2680	http://www.aidimme.es/FurnitureSectorOntology.owl#Beam							beam.n.02	x	9
 wood beam	1310	http://scan-net.org/concepts/wood_beam	wood beam		38					-	10
-beam	2680	http://www.aidimme.es/FurnitureSectorOntology.owl#Beam						beam		-	9
 building envelope	2722	http://www.aidimme.es/FurnitureSectorOntology.owl#BuildingEnvelope						building envelope		-	9
 tile	2735	http://www.aidimme.es/FurnitureSectorOntology.owl#Tile						tile		-	9
 truss	2828	http://www.aidimme.es/FurnitureSectorOntology.owl#Truss						truss		-	9

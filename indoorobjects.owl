@@ -3312,7 +3312,7 @@
   <rdf:Description rdf:about="http://scan-net.org/concepts/wood_beam">
     <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
     <rdfs:label xml:lang="en">wood beam</rdfs:label>
-    <rdfs:subClassOf rdf:resource="https://www.w3.org/2006/03/wn/wn20/instances/synset-beam-noun-02"/>
+    <rdfs:subClassOf rdf:resource="http://www.aidimme.es/FurnitureSectorOntology.owl#Beam"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://www.w3.org/2006/03/wn/wn20/instances/synset-night-light-noun-01">
     <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
@@ -4963,11 +4963,6 @@
     <rdfs:subClassOf rdf:resource="http://www.aidimme.es/FurnitureSectorOntology.owl#Window"/>
     <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
     <rdfs:label xml:lang="en">window double</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://www.w3.org/2006/03/wn/wn20/instances/synset-beam-noun-02">
-    <rdfs:subClassOf rdf:resource="http://www.aidimme.es/FurnitureSectorOntology.owl#BuildingElement"/>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-    <rdfs:label xml:lang="en">beam.n.02</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="http://scan-net.org/concepts/door_wall">
     <rdfs:subClassOf rdf:resource="http://www.aidimme.es/FurnitureSectorOntology.owl#Door"/>
