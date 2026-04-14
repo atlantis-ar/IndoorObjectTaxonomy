@@ -22,6 +22,7 @@ closet wall	1165	http://scan-net.org/concepts/closet_wall	closet wall		1					-	8
 pantry wall	1204	http://scan-net.org/concepts/pantry_wall	pantry wall		1					-	8
 bathroom wall	1243	http://scan-net.org/concepts/bathroom_wall	bathroom wall		1					-	8
 curtain wall	2928	http://atlantis-ar/indoor-taxonomy#curtain_wall								-	8
+jamb	3250	https://www.w3.org/2006/03/wn/wn20/instances/synset-jamb-noun-01							-	8
 building	2929	http://atlantis-ar/indoor-taxonomy#building							building.n.01	-	6
 house	2930	https://www.w3.org/2006/03/wn/wn20/instances/synset-house-noun-01							house.n.01	x	7
 dollhouse	282	http://scan-net.org/concepts/dollhouse	dollhouse		39				dollhouse.n.01	-	8

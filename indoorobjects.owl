@@ -5744,4 +5744,10 @@
     <rdfs:subClassOf rdf:resource="https://www.w3.org/2006/03/wn/wn20/instances/synset-attachment-noun-04"/>
     <rdfs:label xml:lang="en">ligament.n.02</rdfs:label>
   </rdf:Description>
+  <rdf:Description rdf:about="https://www.w3.org/2006/03/wn/wn20/instances/synset-jamb-noun-01">
+    <rdf:type rdf:resource="http://scan-net.org/concepts/wall"/>
+    <rdfs:subClassOf rdf:resource="https://www.w3.org/2006/03/wn/wn20/instances/synset-attachment-noun-04"/>
+	<rdfs:subClassOf rdf:resource="https://www.w3.org/2006/03/wn/wn20/instances/synset-upright-noun-01"/>
+    <rdfs:label xml:lang="en">jamb.n.01</rdfs:label>
+  </rdf:Description>
 </rdf:RDF>
