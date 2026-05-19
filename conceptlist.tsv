@@ -1,4 +1,5 @@
 Label	ID	URI	Scannet	Roomle	NYU40	Shapenet	COCO	FSO	Wordnet	Structural	Level
+nan	3268	http://atlantis-ar/indoor-taxonomy#nan								-	0
 entity	2921	https://www.w3.org/2006/03/wn/wn20/instances/synset-entity-noun-01							entity.n.01	x	0
 physical_entity	2922	https://www.w3.org/2006/03/wn/wn20/instances/synset-physical_entity-noun-01							physical_entity.n.01	x	1
 object	2923	https://www.w3.org/2006/03/wn/wn20/instances/synset-object-noun-01							object.n.01	x	2
@@ -817,7 +818,6 @@ thermometer	2693	http://www.aidimme.es/FurnitureSectorOntology.owl#Thermometer		
 timepiece	3083	https://www.w3.org/2006/03/wn/wn20/instances/synset-timepiece-noun-01							timepiece.n.01	x	9
 clock	103	http://scan-net.org/concepts/clock	clock		40	clock	clock		clock.n.01	-	10
 alarm clock	572	http://scan-net.org/concepts/alarm_clock	alarm clock		40	clock			alarm_clock.n.01	-	11
-alarm	518	http://scan-net.org/concepts/alarm	alarm		40	clock			alarm_clock.n.01	-	11
 chronometer	2535	http://www.aidimme.es/FurnitureSectorOntology.owl#Chronometer						chronometer	chronometer.n.01	-	11
 optical_instrument	3084	https://www.w3.org/2006/03/wn/wn20/instances/synset-optical_instrument-noun-01							optical_instrument.n.01	x	8
 projector	264	http://scan-net.org/concepts/projector	projector		40				projector.n.02	-	9
@@ -903,6 +903,26 @@ connection	3132	https://www.w3.org/2006/03/wn/wn20/instances/synset-connection-n
 attachment	3133	https://www.w3.org/2006/03/wn/wn20/instances/synset-attachment-noun-04							attachment.n.04	x	7
 ligament	3134	https://www.w3.org/2006/03/wn/wn20/instances/synset-ligament-noun-02							ligament.n.02	x	8
 chain	623	http://scan-net.org/concepts/chain	chain		40				chain.n.03	-	9
+creation	3257	https://www.w3.org/2006/03/wn/wn20/instances/synset-creation-noun-02							creation.n.02	x	5
+product	3258	https://www.w3.org/2006/03/wn/wn20/instances/synset-product-noun-02							product.n.02	x	6
+book	22	http://scan-net.org/concepts/book	book		23		book		book.n.02	-	7
+music book	1213	http://scan-net.org/concepts/music_book	music book		23					-	8
+work	3259	https://www.w3.org/2006/03/wn/wn20/instances/synset-work-noun-02							work.n.02	x	7
+publication	3260	https://www.w3.org/2006/03/wn/wn20/instances/synset-publication-noun-01							publication.n.01	x	8
+magazine	339	http://scan-net.org/concepts/magazine	magazine		40				magazine.n.01	-	9
+representation	3261	https://www.w3.org/2006/03/wn/wn20/instances/synset-representation-noun-02							representation.n.02	x	6
+picture	15	http://scan-net.org/concepts/picture	picture		11				picture.n.01	-	7
+poster	1188	http://scan-net.org/concepts/poster	poster		11				picture.n.01	-	7
+painting	1218	http://scan-net.org/concepts/painting	painting		11				picture.n.01	-	7
+map	365	http://scan-net.org/concepts/map	map		40				map.n.01	-	7
+photo	227	http://scan-net.org/concepts/photo	photo		40				photograph.n.01	-	7
+model	3262	https://www.w3.org/2006/03/wn/wn20/instances/synset-model-noun-04							model.n.04	x	7
+art	3263	https://www.w3.org/2006/03/wn/wn20/instances/synset-art-noun-01							art.n.01	x	6
+plastic_art	3264	https://www.w3.org/2006/03/wn/wn20/instances/synset-plastic_art-noun-01							plastic_art.n.01	x	7
+sculpture	3265	https://www.w3.org/2006/03/wn/wn20/instances/synset-sculpture-noun-01							sculpture.n.01	x	8
+statue	281	http://scan-net.org/concepts/statue	statue		40				statue.n.01	-	9
+buddha	1083	http://scan-net.org/concepts/buddha	buddha		40					-	10
+baby mobile	1336	http://scan-net.org/concepts/baby_mobile	baby mobile		40				mobile.n.03	-	9
 surface	3135	https://www.w3.org/2006/03/wn/wn20/instances/synset-surface-noun-01							surface.n.01	x	5
 projector screen	609	http://scan-net.org/concepts/projector_screen	projector screen		38				screen.n.01	-	6
 horizontal_surface	3136	https://www.w3.org/2006/03/wn/wn20/instances/synset-horizontal_surface-noun-01							horizontal_surface.n.01	x	6
@@ -1010,8 +1030,7 @@ home_appliance	3193	https://www.w3.org/2006/03/wn/wn20/instances/synset-home_app
 vacuum cleaner	283	http://scan-net.org/concepts/vacuum_cleaner	vacuum cleaner		40				vacuum.n.04	-	10
 iron	378	http://www.aidimme.es/FurnitureSectorOntology.owl#Iron	iron		40			iron	iron.n.04	-	10
 sewing machine	529	http://www.aidimme.es/FurnitureSectorOntology.owl#SewingMachine	sewing machine		40			sewing machine	sewing_machine.n.01	-	10
-white_goods	3194	https://www.w3.org/2006/03/wn/wn20/instances/synset-white_goods-noun-01							white_goods.n.01	x	10
-washing machine	70	http://scan-net.org/concepts/washing_machine	washing machine		39	washing_machine			washer.n.03	-	11
+washing machine	70	http://scan-net.org/concepts/washing_machine	washing machine		39	washing_machine			washer.n.03	-	10
 kitchen_appliance	3197	https://www.w3.org/2006/03/wn/wn20/instances/synset-kitchen_appliance-noun-01							kitchen_appliance.n.01	x	10
 microwave	59	http://scan-net.org/concepts/microwave	microwave		40	microwave	microwave		microwave.n.02	-	11
 coffee maker	134	http://scan-net.org/concepts/coffee_maker	coffee maker		40				coffee_maker.n.01	-	11
@@ -1029,6 +1048,7 @@ snowboard	2023	http://atlantis-ar/indoor-taxonomy#snowboard					snowboard		snowb
 surfboard	2029	http://atlantis-ar/indoor-taxonomy#surfboard					surfboard		surfboard.n.01	-	7
 panel	3205	https://www.w3.org/2006/03/wn/wn20/instances/synset-panel-noun-01							panel.n.01	x	6
 headboard	81	http://www.aidimme.es/FurnitureSectorOntology.owl#Headboard	headboard		39			headboard	headboard.n.01	-	7
+plinth panel	3267	http://atlantis-ar/indoor-taxonomy#plinth_panel								-	7
 plate	3206	https://www.w3.org/2006/03/wn/wn20/instances/synset-plate-noun-02							plate.n.02	x	6
 opening	3208	https://www.w3.org/2006/03/wn/wn20/instances/synset-opening-noun-10							opening.n.10	x	5
 window (opening)	3209	http://atlantis-ar/indoor-taxonomy#window_(opening)							window.n.07	-	6

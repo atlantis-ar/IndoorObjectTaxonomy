@@ -1981,11 +1981,8 @@
     <rdfs:subClassOf rdf:resource="https://www.w3.org/2006/03/wn/wn20/instances/synset-footwear-noun-02"/>
     <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://www.w3.org/2006/03/wn/wn20/instances/synset-white_goods-noun-02">
-    <rdfs:subClassOf rdf:resource="https://www.w3.org/2006/03/wn/wn20/instances/synset-drygoods-noun-01"/>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-    <rdfs:label xml:lang="en">white_goods.n.02</rdfs:label>
-  </rdf:Description>
+
+
   <rdf:Description rdf:about="http://atlantis-ar/indoor-taxonomy#office_it">
     <rdfs:label xml:lang="en">office IT</rdfs:label>
     <rdfs:subClassOf rdf:resource="https://www.w3.org/2006/03/wn/wn20/instances/synset-electronic_device-noun-01"/>
@@ -2482,6 +2479,7 @@
     <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://atlantis-ar/indoor-taxonomy#dishwasher">
+    <rdfs:subClassOf rdf:resource="http://www.aidimme.es/FurnitureSectorOntology.owl#HouseholdAppliance"/>
     <rdfs:subClassOf rdf:resource="https://www.w3.org/2006/03/wn/wn20/instances/synset-white_goods-noun-01"/>
     <rdfs:label xml:lang="en">dishwasher</rdfs:label>
     <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
@@ -2588,7 +2586,7 @@
     <rdfs:label xml:lang="en">round table</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="https://www.w3.org/2006/03/wn/wn20/instances/synset-linen-noun-03">
-    <rdfs:subClassOf rdf:resource="https://www.w3.org/2006/03/wn/wn20/instances/synset-white_goods-noun-02"/>
+    <rdfs:subClassOf rdf:resource="https://www.w3.org/2006/03/wn/wn20/instances/synset-drygoods-noun-01"/>
     <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
     <rdfs:label xml:lang="en">linen.n.03</rdfs:label>
   </rdf:Description>
@@ -3684,6 +3682,7 @@
     <rdfs:label xml:lang="en">washing machine</rdfs:label>
     <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
     <rdfs:subClassOf rdf:resource="https://www.w3.org/2006/03/wn/wn20/instances/synset-white_goods-noun-01"/>
+	<rdfs:subClassOf rdf:resource="http://www.aidimme.es/FurnitureSectorOntology.owl#HouseholdAppliance"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://scan-net.org/concepts/shower_faucet_handle">
     <rdfs:subClassOf rdf:resource="https://www.w3.org/2006/03/wn/wn20/instances/synset-regulator-noun-01"/>
@@ -3954,11 +3953,7 @@
     <rdfs:label xml:lang="en">transformer</rdfs:label>
     <rdfs:subClassOf rdf:resource="http://www.aidimme.es/FurnitureSectorOntology.owl#HouseholdAppliance"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://www.w3.org/2006/03/wn/wn20/instances/synset-white_goods-noun-01">
-    <rdfs:subClassOf rdf:resource="https://www.w3.org/2006/03/wn/wn20/instances/synset-home_appliance-noun-01"/>
-    <rdfs:label xml:lang="en">white_goods.n.01</rdfs:label>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-  </rdf:Description>
+
   <rdf:Description rdf:about="http://www.aidimme.es/FurnitureSectorOntology.owl#Swing">
     <rdfs:subClassOf rdf:resource="http://www.aidimme.es/FurnitureSectorOntology.owl#PlaygroundEquipment"/>
     <rdfs:label xml:lang="en">swing</rdfs:label>
@@ -4558,6 +4553,7 @@
     <rdfs:subClassOf rdf:resource="http://www.aidimme.es/FurnitureSectorOntology.owl#HouseholdAppliance"/>
     <rdfs:label xml:lang="en">refrigerator</rdfs:label>
     <rdfs:subClassOf rdf:resource="https://www.w3.org/2006/03/wn/wn20/instances/synset-white_goods-noun-01"/>
+	<rdfs:subClassOf rdf:resource="http://www.aidimme.es/FurnitureSectorOntology.owl#HouseholdAppliance"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://scan-net.org/concepts/hand_rail">
     <rdfs:subClassOf rdf:resource="http://scan-net.org/concepts/barricade"/>
@@ -5277,11 +5273,6 @@
     <rdfs:subClassOf rdf:resource="https://www.w3.org/2006/03/wn/wn20/instances/synset-vessel-noun-03"/>
     <rdfs:label xml:lang="en">jar</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="http://scan-net.org/concepts/alarm">
-    <rdfs:subClassOf rdf:resource="http://scan-net.org/concepts/clock"/>
-    <rdfs:label xml:lang="en">alarm</rdfs:label>
-    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-  </rdf:Description>
   <rdf:Description rdf:about="https://www.w3.org/2006/03/wn/wn20/instances/synset-wind_instrument-noun-01">
     <rdfs:label xml:lang="en">wind_instrument.n.01</rdfs:label>
     <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
@@ -5745,7 +5736,8 @@
     <rdfs:label xml:lang="en">ligament.n.02</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="https://www.w3.org/2006/03/wn/wn20/instances/synset-jamb-noun-01">
-    <rdf:type rdf:resource="http://scan-net.org/concepts/wall"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+	<rdfs:subClassOf rdf:resource="http://scan-net.org/concepts/wall"/>
     <rdfs:subClassOf rdf:resource="https://www.w3.org/2006/03/wn/wn20/instances/synset-attachment-noun-04"/>
 	<rdfs:subClassOf rdf:resource="https://www.w3.org/2006/03/wn/wn20/instances/synset-upright-noun-01"/>
     <rdfs:label xml:lang="en">jamb.n.01</rdfs:label>
